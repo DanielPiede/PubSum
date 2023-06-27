@@ -115,14 +115,14 @@ input[type=text] {
 }
 
 .col-2 .SDM{
-    width: 90%;
+    width: 75%;
 }
 
 .color-box{
     position: absolute;
     right: 0;
     top: 0;
-    background-color: linear-gradient(#6c49c0,#9f21aa);
+    background: linear-gradient(#6c49c0,#9f21aa);
     border-radius: 20px 0 0 20px;
     height: 100%;
     width : 80%;
