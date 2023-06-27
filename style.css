@@ -29,3 +29,14 @@
     width: 25px;
     cursor: pointer;
 }
+
+nav{
+    flex: 1;
+    text-align: right;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
