@@ -12,7 +12,9 @@
     display: flex;
     align-items: center;
     position: fixed;
-    overflow: hidden;
+    overflow: visible;
+    background-color: #ffffff;
+    z-index:1
 }
 
 nav{
@@ -128,15 +130,15 @@ input[type=text] {
     margin-right: 8%;
 }
 
-.footer-text {
-    margin-left: 10px;
-}
-
 .footer-content{
    display: contents;
    justify-content: space-between;
-
 }
+
+.footer-content a{
+    margin-left: 8%;
+    font-size: 16px;
+ }
 
 .container-searchbar{
     width: 100%;
@@ -254,4 +256,8 @@ input[type=text] {
     .searchbar input{
         font-size: 16px;
     }
+
+    .footer-content a{
+        font-size: 12px;
+     }
 }
