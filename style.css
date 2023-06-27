@@ -65,13 +65,13 @@ nav ul li a:hover{
     margin: 150px 0px 0px 0px;
 }
 
-.col-1{
+.description{
     flex-basis: 80%;
     position: relative;
     margin-left: 50px;
 }
 
-.col-1::after{
+.description::after{
     content: '';
     width: 10px;
     height: 70%;
@@ -81,11 +81,11 @@ nav ul li a:hover{
     top: 8px;
 }
 
-.col-1 h2{
+.description h2{
     font-size: 30px; 
 }
 
-.col-1 h3{
+.description h3{
     font-size: 24px;
     color: #311c61;
     font-weight: 100;
@@ -93,7 +93,7 @@ nav ul li a:hover{
 }
 
 
-.col-1 p{
+.description p{
     margin-top: 25px;
     font-size: 18px;
     color: #311c61;
@@ -233,19 +233,19 @@ input[type=text] {
         width: 77%;
     }
 
-    .col-1{
+    .description{
         flex-basis: 100%;   
     }
 
-    .col-1 h2{
+    .description h2{
         font-size: 20px;   
     }
 
-    .col-1 h3{
+    .description h3{
         font-size: 18px;   
     }
 
-    .col-1 p{
+    .description p{
         font-size: 16px;   
     }
 
