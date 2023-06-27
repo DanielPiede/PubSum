@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 var menuList = document.getElementById("menuList");
+
 menuList.style.maxHeight = "0px"
 
 function togglemenu() {
