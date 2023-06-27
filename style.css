@@ -139,4 +139,13 @@ input[type=text] {
         right: 0;
         z-index: 2;
     }
+    nav ul li{
+        display: block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    nav ul li a{
+        color: #fff;
+    }
 }
