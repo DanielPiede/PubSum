@@ -136,7 +136,7 @@ input[type=text] {
     height: 100vh;
     padding: 5%;
     display: flex;
-    align-items: center;
+    align-items: top;
     justify-content: center;
 }
 
@@ -145,7 +145,7 @@ input[type=text] {
     max-width: 700px;
     background-color: #b160f388;
     display: flex;
-    align-items: center;
+    align-items: top;
     border-radius: 60px;
     padding: 10px 20px;
 }
