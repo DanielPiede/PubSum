@@ -178,6 +178,12 @@ input[type=text] {
     cursor: pointer;
 }
 
+::placeholder{
+    color: #ffffff;
+    font-weight: bold;
+    font-style: italic;
+}
+
 @media only screen and (max-width: 700px) {
     nav ul{
         width: 100%;
