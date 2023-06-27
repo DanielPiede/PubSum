@@ -64,6 +64,13 @@ nav ul li a:hover{
     margin-left: 50px;
 }
 
+.col-1::after{
+    content: '';
+    width: 10px;
+    height: 57%;
+    background: linear-gradient(#311c61,#6c39e4);
+}
+
 .col-1 h2{
     font-size: 30px; 
 }
