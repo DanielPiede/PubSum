@@ -69,6 +69,7 @@ nav ul li a:hover{
     width: 10px;
     height: 57%;
     background: linear-gradient(#311c61,#6c39e4);
+    position: absolute;
     left: -40px;
     top: 8px;
 }
