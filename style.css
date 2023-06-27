@@ -134,7 +134,7 @@ input[type=text] {
 @media only screen and (max-width: 700px) {
     nav ul{
         width: 100%;
-        background: linear-gradient(#6c49c0,#9f21aa);
+        background: linear-gradient(#9c9c9c,#ffffff);
         position:absolute;
         top: 75px;
         right: 0;
