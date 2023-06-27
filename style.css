@@ -221,7 +221,7 @@ input[type=text] {
 
     .row{
         flex-direction: column-reverse;
-        margin: 160px 0px 0px 0px;
+        margin: 180px 0px 0px 0px;
     }
 
     .col-2{
