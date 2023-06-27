@@ -5,12 +5,13 @@
 }
 
 .navbar{
-    width: 100%;
+    width: 84%;
     padding-left: 8%;
     padding-right: 8%;
     display: flex;
     align-items: center;
     position: fixed;
+    overflow: hidden;
 }
 
 nav{
@@ -58,7 +59,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 100px 0;
+    margin: 150px 0;
 }
 
 .col-1{
@@ -104,7 +105,6 @@ input[type=text] {
     float: center;
     padding: 6px;
     border: #6c39e4;
-    margin-top: 20px;
     margin-right: 8px;
     font-size: 16px;
     width: 100%;
@@ -120,24 +120,12 @@ footer{
 }
 
 footer .SDM{
-    width: 10%;
-}
-
-.color-box{
-    position: absolute;
-    right: 0;
-    top: 0;
-    background: linear-gradient(#6c49c0,#9f21aa);
-    border-radius: 20px 0 0 20px;
-    height: 100%;
-    width : 80%;
-    z-index: -1;
-    transform: translateX(150px);
+    width: 20%;
 }
 
 .container-searchbar{
     width: 100%;
-    height: 100px;
+    height: 70px;
     padding: 5%;
     display: flex;
     justify-content: top;
@@ -149,7 +137,7 @@ footer .SDM{
     background-color: #b160f388;
     display: flex;
     border-radius: 60px;
-    padding: 10px 20px;
+    padding: 8px 8px;
 }
 
 .searchbar input{
@@ -168,8 +156,8 @@ footer .SDM{
 .searchbar button {
     border: 0;
     border-radius: 50%;
-    width: 60px;
-    height: 60px;
+    width: 55px;
+    height: 55px;
     background: #6c49c0;
     cursor: pointer;
 }
@@ -206,7 +194,7 @@ footer .SDM{
 
     .row{
         flex-direction: column-reverse;
-        margin: 50px 0;
+        margin: 150px 0;
     }
 
     .col-2{
