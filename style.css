@@ -54,7 +54,7 @@ nav ul li a:hover{
 input[type=text] {
     float: center;
     padding: 6px;
-    border: none;
+    border: #6c39e4;
     margin-top: 8px;
     margin-right: 16px;
     font-size: 17px;
