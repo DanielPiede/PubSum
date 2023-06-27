@@ -4,6 +4,7 @@
     font-family: sans-serif;
 }
 
+
 .navbar{
     width: 84%;
     padding-left: 8%;
@@ -59,7 +60,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 150px 0;
+    margin: 150px 0px 0px 0px;
 }
 
 .col-1{
@@ -110,30 +111,45 @@ input[type=text] {
     width: 100%;
   }
 
-footer{
-    position: relative;
-    flex-basis: 60%;
-    display: flex;
-    align-items: center;
+  .footer {
     position: fixed;
-    margin-top: auto;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 8px;
+    background-color: #ffffff;
+    border-style: solid none;
+    border-bottom: #311c61;
+    border-width: 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-footer .SDM{
-    width: 20%;
+.footer .SDM {
+    width: 10%;
+    margin-right: 8%;
+}
+
+.footer-text {
+    margin-left: 10px;
+}
+
+.footer-content{
+   display: contents;
+   justify-content: space-between;
+
 }
 
 .container-searchbar{
     width: 100%;
     height: 70px;
-    padding: 5%;
+    padding: 50px 0;
     display: flex;
-    justify-content: top;
 }
 
 .searchbar{
     width: 100%;
-    max-width: 1000px;
     background-color: #b160f388;
     display: flex;
     border-radius: 60px;
@@ -145,7 +161,7 @@ footer .SDM{
     flex: 1;
     border: 0;
     outline: none;
-    padding: 24px 20px;
+    padding: 24px 24px;
     font-size: 16px;
 }
 
@@ -165,9 +181,9 @@ footer .SDM{
 @media only screen and (max-width: 700px) {
     nav ul{
         width: 100%;
-        background: linear-gradient(#9c9c9c,#ffffff);
+        background: linear-gradient(#317cd16e,#5821b183);
         position:absolute;
-        top: 75px;
+        top: 100px;
         right: 0;
         z-index: 2;
     }
@@ -194,7 +210,7 @@ footer .SDM{
 
     .row{
         flex-direction: column-reverse;
-        margin: 150px 0;
+        margin: 150px 0px 0px 0px;
     }
 
     .col-2{
@@ -204,10 +220,6 @@ footer .SDM{
 
     .col-2 .SDM{
         width: 77%;
-    }
-    
-    .color-box{
-        transform: translateX(75px);
     }
 
     .col-1{
@@ -222,5 +234,8 @@ footer .SDM{
         font-size: 15px;   
     }
 
-
+    .footer .SDM {
+        width: 20%;
+        margin-right: 8%;
+    }
 }
