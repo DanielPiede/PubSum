@@ -178,4 +178,16 @@ input[type=text] {
     .color-box{
         transform: translateX(75px);
     }
+
+    .col-1{
+        flex-basis: 100%;   
+    }
+
+    .col-1 h2{
+        font-size: 20px;   
+    }
+
+    .col-1 h3{
+        font-size: 15px;   
+    }
 }
