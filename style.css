@@ -146,10 +146,13 @@ input[type=text] {
     height: 70px;
     padding: 50px 0;
     display: flex;
+    display: flex;
+    justify-content: center;
 }
 
 .searchbar{
     width: 100%;
+    max-width: 700px;
     background-color: #b160f388;
     display: flex;
     border-radius: 60px;
