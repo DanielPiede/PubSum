@@ -51,6 +51,13 @@ nav ul li a:hover{
     color: #6c39e4;
 }
 
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+}
+
 input[type=text] {
     float: center;
     padding: 6px;
