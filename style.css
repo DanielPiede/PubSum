@@ -136,7 +136,7 @@ input[type=text] {
     height: 100vh;
     padding: 5%;
     display: flex;
-    align-items: top;
+    align-items: top center;
     justify-content: top;
 }
 
@@ -145,7 +145,7 @@ input[type=text] {
     max-width: 1000px;
     background-color: #b160f388;
     display: flex;
-    align-items: top;
+    align-items: top center;
     border-radius: 60px;
     padding: 10px 20px;
 }
@@ -159,6 +159,18 @@ input[type=text] {
     font-size: 16px;
 }
 
+.searchbar button img{
+    width: 25px;
+}
+
+.searchbar button {
+    border: 0;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background: #6c49c0;
+    cursor: pointer;
+}
 
 @media only screen and (max-width: 700px) {
     nav ul{
