@@ -75,6 +75,11 @@ nav ul li a:hover{
     margin: 20px 0 10px;
 }
 
+.col-1 h4{
+    margin: 30px 0;
+    font-size: 20px;
+}
+
 .col-1 p{
     font-size: 16px;
     color: #6c39e4;
