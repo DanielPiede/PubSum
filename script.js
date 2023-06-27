@@ -1,11 +1,23 @@
-document.addEventListener('DOMContentLoaded', function() {
-    // Code that needs to be executed on DOMContentLoaded event
-    // This could be any additional initialization code
+$(document).ready(function() {
+    $.ajax({
+        url: 'header.html',
+        dataType: 'html',
+        success: function(data) {
+            $('#header-placeholder').replaceWith(data);
+            var menuList = document.getElementById("menuList")
+            menuList.style.maxHeight = "0px"
+        }
+    });
+    $.ajax({
+        url: 'footer.html',
+        dataType: 'html',
+        success: function(data) {
+            $('#footer-placeholder').replaceWith(data);
+        }
+    });
 });
 
-var menuList = document.getElementById("menuList");
-
-menuList.style.maxHeight = "0px"
+document.addEventListener('DOMContentLoaded', function() {});
 
 function togglemenu() {
 
