@@ -4,31 +4,12 @@
     font-family: sans-serif;
 }
 
-.container{
-    width: 100%;
-    min-height: 100vh;
-    padding-left: 8%;
-    padding-right: 8%;
-    box-sizing: border-box;
-    overflow: hidden;
-}
-
 .navbar{
     width: 100%;
+    padding-left: 8%;
+    padding-right: 8%;
     display: flex;
     align-items: center;
-}
-
-.logo{
-    width: 165px;
-    cursor: pointer;
-    margin: 30px 0;
-}
-
-.menu-icon{
-    width: 25px;
-    cursor: pointer;
-    display: none;
 }
 
 nav{
@@ -50,6 +31,26 @@ nav ul li a{
 
 nav ul li a:hover{
     color: #6c39e4;
+}
+
+.logo{
+    width: 165px;
+    cursor: pointer;
+    margin: 30px 0;
+}
+
+.menu-icon{
+    width: 25px;
+    cursor: pointer;
+    display: none;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+    overflow: hidden;
 }
 
 .row{
