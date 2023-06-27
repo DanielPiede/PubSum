@@ -131,10 +131,23 @@ input[type=text] {
     transform: translateX(150px);
 }
 
-.searchbar{
+.container-searchbar{
     width: 100%;
     height: 100vh;
     padding: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchbar{
+    width: 100%;
+    max-width: 700px;
+    background-color: #b160f388;
+    display: flex;
+    align-items: center;
+    border-radius: 60px;
+    padding: 10px 20px;
 }
 
 @media only screen and (max-width: 700px) {
