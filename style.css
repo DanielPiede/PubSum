@@ -165,7 +165,8 @@ input[type=text] {
     border: 0;
     outline: none;
     padding: 24px 24px;
-    font-size: 16px;
+    font-size: 20px;
+    color: #ffffff;
 }
 
 .searchbar button img{
