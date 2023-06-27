@@ -64,7 +64,7 @@ nav ul li a:hover{
 }
 
 .col-1{
-    flex-basis: 40%;
+    flex-basis: 80%;
     position: relative;
     margin-left: 50px;
 }
@@ -84,19 +84,16 @@ nav ul li a:hover{
 }
 
 .col-1 h3{
-    font-size: 20px;
+    font-size: 24px;
     color: #311c61;
     font-weight: 100;
     margin: 20px 0 10px;
 }
 
-.col-1 h4{
-    margin: 30px 0;
-    font-size: 16px;
-}
 
 .col-1 p{
-    font-size: 16px;
+    margin-top: 25px;
+    font-size: 18px;
     color: #311c61;
     font-weight: 100;
 }
@@ -238,11 +235,15 @@ input[type=text] {
     }
 
     .col-1 h2{
-        font-size: 20px;   
+        font-size: 22px;   
     }
 
     .col-1 h3{
-        font-size: 15px;   
+        font-size: 20px;   
+    }
+
+    .col-1 p{
+        font-size: 16px;   
     }
 
     .footer .SDM {
