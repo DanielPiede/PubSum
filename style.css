@@ -129,3 +129,14 @@ input[type=text] {
     z-index: -1;
     transform: translateX(150px);
 }
+
+@media only screen and (max-width: 700px) {
+    nav ul{
+        width: 100%;
+        background: linear-gradient(#6c49c0,#9f21aa);
+        position:absolute;
+        top: 75px;
+        right: 0;
+        z-index: 2;
+    }
+}
