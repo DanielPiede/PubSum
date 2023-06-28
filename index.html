@@ -17,14 +17,13 @@
                     <p>Search for a topic or paper or activate the Voice Assistant by saying <b>"Hey, PubSum!"</b></p>
                 </div>
             </div>
-            <div class="container-searchbar"> 
+            <div class="container-searchbar">
                 <form action="" class="searchbar" id="searchForm">
-                  <input type="text" placeholder="Search for a topic or paper..." id="search">
-                  <button type="submit" onclick="callAPI(document.getElementById('search').value)" ><img src="icons/search.png"></button>
+                <input type="text" placeholder="Search for a topic or paper..." id="search">
+                <button type="submit" onclick="callAPI(event)"><img src="icons/search.png"></button>
                 </form>
-              </div>
-              
-              <div id="searchResults"></div>
+            </div>              
+            <div id="searchResults"></div>
         </div>
         <div id="footer-placeholder"></div>
     </body>

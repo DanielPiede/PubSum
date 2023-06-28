@@ -28,24 +28,28 @@ function togglemenu() {
     }
 }
 
-    // callAPI function that takes the base and exponent numbers as parameters
-    var callAPI = (search)=>{
-        // instantiate a headers object
-        var myHeaders = new Headers();
-        // add content type header to object
-        myHeaders.append("Content-Type", "application/json");
-        // using built in JSON utility package turn object to string and store in a variable
-        var raw = JSON.stringify({"search": search});
-        // create a JSON object with parameters for API call and store in a variable
-        var requestOptions = {
-            method: 'POST',
-            headers: myHeaders,
-            body: raw,
-            redirect: 'follow'
-        };
-        // make API call with parameters and use promises to get response
-        fetch("https://8gi380k5nd.execute-api.ap-northeast-1.amazonaws.com/Dev", requestOptions)
+function callAPI(event) {
+    event.preventDefault(); // Prevent the form from submitting normally
+
+    var searchInput = document.getElementById('search');
+    var searchValue = searchInput.value;
+
+    var myHeaders = new Headers();
+    myHeaders.append("Content-Type", "application/json");
+
+    var raw = JSON.stringify({"search": searchValue});
+    var requestOptions = {
+        method: 'POST',
+        headers: myHeaders,
+        body: raw,
+        redirect: 'follow'
+    };
+
+    fetch("https://8gi380k5nd.execute-api.ap-northeast-1.amazonaws.com/Dev", requestOptions)
         .then(response => response.text())
-        .then(result => alert(JSON.parse(result).body))
+        .then(result => {
+        var searchResults = document.getElementById('searchResults');
+        searchResults.innerHTML = JSON.parse(result).body;
+        })
         .catch(error => console.log('error', error));
     }
