@@ -46,10 +46,32 @@ function callAPI(event) {
     };
 
     fetch("https://8gi380k5nd.execute-api.ap-northeast-1.amazonaws.com/Dev", requestOptions)
-        .then(response => response.text())
+        .then(response => response.json()) // Parse the response as JSON
         .then(result => {
         var searchResults = document.getElementById('searchResults');
-        searchResults.innerHTML = JSON.parse(result).body;
-        })
-        .catch(error => console.log('error', error));
-    }
+        searchResults.innerHTML = ''; // Clear the search results container
+
+        // Iterate through the papers and generate HTML elements dynamically
+        result.body.papers.forEach(paper => {
+            // Create a div element for the paper box
+            var paperBox = document.createElement('div');
+            paperBox.classList.add('paper-box');
+
+            // Create a paragraph element for the date
+            var dateElement = document.createElement('p');
+            dateElement.textContent = paper.Date;
+
+            // Create a heading element for the title
+            var titleElement = document.createElement('h3');
+            titleElement.textContent = paper.Title;
+
+            // Append the date and title elements to the paper box
+            paperBox.appendChild(dateElement);
+            paperBox.appendChild(titleElement);
+
+            // Append the paper box to the search results container
+            searchResults.appendChild(paperBox);
+        });
+    })
+    .catch(error => console.log('error', error));
+}
