@@ -6,7 +6,6 @@
     <title>PubSum Prototype</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/searchbar.css">
 </head>
 <body>
     <div id="navbar-placeholder"></div>
@@ -20,16 +19,19 @@
                 <p>Search for a topic or paper or activate the Voice Assistant by saying <mark style="background: rgba(135, 206, 250, 0.733);"><b>"Hey, PubSum!"</b></mark></p>
             </div>
         </div>
-        <div class="row text-center">
-            <div class="col-12">
-                <form action="" class="searchbar" id="searchForm">
+    </div>
+    <div class="container-md" id="search-container">
+        <div class="row ">
+            <div class="col-md-12">
+                <form action="" class="search-bar" id="searchForm">
                     <input id="search" type="text" placeholder="Search for a topic or paper" />
                     <button type="submit" id = "btn-search" onclick="callAPI(event)">
-                        <img src="icons/search.png" width="30" height="30" viewBox="0 0 30 30">
+                        <img src="icons/search.png">
                     </button>
                 </form>
             </div>
         </div>
+    </div>
         <div class="row justify-content-center">
             <div class="col-md-10" id="search-results">
                 
@@ -38,7 +40,5 @@
     </div>
     <script src="js/bootstrap.bundle.js"></script>
     <script src="script.js"></script>
-
-    </script>
 </body>
 </html>
