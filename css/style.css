@@ -1,0 +1,17 @@
+#starting-container{
+    margin-top: 125px;
+}
+
+.searchbar {
+    border: 0;
+    border-radius: 60px;
+    display: block;
+    width: 65%;
+    padding: 10px 32px 10px 70px;
+    font-size: 18px;
+    height: 55px;
+    color: #fff;
+    background: linear-gradient(to right, #b74bff 0%, #9733da 28%, #2c6dd5 91%, #2c6dd5 100%);
+    font-family: 'Lato', sans-serif;
+    justify-content: center;
+  }

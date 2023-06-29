@@ -1,21 +1,15 @@
-$(document).ready(function() {
-    $.ajax({
-        url: 'header.html',
-        dataType: 'html',
-        success: function(data) {
-            $('#header-placeholder').replaceWith(data);
-            var menuList = document.getElementById("menuList")
-            menuList.style.maxHeight = "0px"
+function includeHTML() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("navbar-placeholder").innerHTML = this.responseText;
         }
-    });
-    $.ajax({
-        url: 'footer.html',
-        dataType: 'html',
-        success: function(data) {
-            $('#footer-placeholder').replaceWith(data);
-        }
-    });
-});
+    };
+    xhttp.open("GET", "navbar.html", true);
+    xhttp.send();
+}
+
+includeHTML();
 
 document.addEventListener('DOMContentLoaded', function() {});
 
@@ -88,6 +82,4 @@ function callAPI(event) {
         searchResults.removeChild(loadingIcon);
     })
     .catch(error => console.log('error', error));
-
-
 }
