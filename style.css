@@ -188,13 +188,24 @@ input[type=text] {
     font-weight: normal;
 }
 
+#search-results{
+    margin-bottom: 8%;
+}
+
 .paper-box {
     border: 2px dotted;
     border-color: linear-gradient(#2271e9b0,#cd51ec81);
     min-height: 60px;
     max-width: 700px;
     padding: 15px;
-    margin-bottom: 10px;
+    margin: auto auto 10px auto;
+}
+
+.loading-icon{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    display: flex;
 }
 
 @media only screen and (max-width: 700px) {
@@ -270,4 +281,8 @@ input[type=text] {
     .footer-content a{
         font-size: 10px;
      }
+
+     #search-results{
+        margin-bottom: 10%;
+    }
 }
