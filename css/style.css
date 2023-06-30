@@ -1,3 +1,11 @@
+body {
+    overflow-x: hidden !important;
+}
+.container {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
 #starting-container{
     margin-top: 150px;
 }
@@ -68,3 +76,40 @@ input:-webkit-autofill:active {
     height: 40px;
     width: 40px;
 }
+
+.card-header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-color: rgba(14, 134, 214, 0.267);
+    border-style: ridge bottom;
+    border-width: 1px;
+  }
+  
+  .card-header .badge {
+    background-color: dimgray;
+    color: white;
+    padding: 5px 10px;
+    margin-right: 10px;
+  }
+  
+  .card-header .paper-title {
+    flex-grow: 1;
+    padding: 0px 10px 0px 30px;
+    width: 80%;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .card-header .ai-summary-button {
+    width: 100px;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    margin-left: auto;
+  }
+  
+  .card-body {
+    padding: 10px;
+  }
+  
