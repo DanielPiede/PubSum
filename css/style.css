@@ -67,6 +67,4 @@ input:-webkit-autofill:active {
 .loading-icon{
     height: 40px;
     width: 40px;
-    justify-items: center;
-    d-flex: center;
 }
