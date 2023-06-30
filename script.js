@@ -46,7 +46,7 @@ function callAPI(event) {
 
     // Append Loading Icon
     
-    var searchResults = document.getElementById('search-results');
+    var searchResults = document.getElementById('loading-container');
     searchResults.innerHTML = '';
     searchResults.appendChild(loadingIcon);
 
