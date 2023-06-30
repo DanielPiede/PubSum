@@ -21,6 +21,14 @@ body {
     margin-bottom: 8%;
 }
 
+.navbar img{
+    margin-left: 60px;
+}
+
+.navbar-nav{
+    margin-right: 60px;
+}
+
 .search-bar {
     border: 0;
     border-radius: 60px;
@@ -84,32 +92,37 @@ input:-webkit-autofill:active {
     border-color: rgba(14, 134, 214, 0.267);
     border-style: ridge bottom;
     border-width: 1px;
-  }
+}
   
-  .card-header .badge {
+.card-header .badge {
     background-color: dimgray;
     color: white;
     padding: 5px 10px;
     margin-right: 10px;
-  }
+}
   
-  .card-header .paper-title {
+.card-header .paper-title {
     flex-grow: 1;
     padding: 0px 10px 0px 30px;
     width: 80%;
     text-decoration: none;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-  }
+}
   
-  .card-header .ai-summary-button {
+.card-header .ai-summary-button {
     width: 100px;
     font-size: 0.8rem;
     white-space: nowrap;
     margin-left: auto;
-  }
+}
   
-  .card-body {
+.card-body {
     padding: 10px;
-  }
-  
+}
+
+@media only screen and (max-width: 700px) {
+    .navbar img{
+        margin-left: 0px;
+    }
+}
