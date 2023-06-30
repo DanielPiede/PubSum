@@ -57,29 +57,77 @@ function callAPI(event) {
 
         // Iterate through the papers and generate HTML elements dynamically
         result.body.papers.forEach(paper => {
-            // Create a div element for the paper box
-            var paperBox = document.createElement('div');
-            paperBox.classList.add('paper-box');
 
-            // Create a paragraph element for the date
-            var dateElement = document.createElement('p');
-            dateElement.textContent = paper.Date;
+            // Create the outer accordion div
+            // Counter variable for unique IDs
 
-            // Create a heading element for the title
-            var titleElement = document.createElement('a');
-            titleElement.textContent = paper.Title;
-            titleElement.href = "https://doi.org/" + paper.DOI;
-            titleElement.target = "_blank";
 
-            // Append the date and title elements to the paper box
-            paperBox.appendChild(dateElement);
-            paperBox.appendChild(titleElement);
+        // Create the outer accordion div
+        var accordionDiv = document.createElement("div");
+        accordionDiv.className = "accordion accordion-flush";
+        accordionDiv.id = "accordionFlushExample";
 
-            // Append the paper box to the search results container
-            searchResults.appendChild(paperBox);
+        // Create the first accordion item
+        var accordionItemDiv = document.createElement("div");
+        accordionItemDiv.className = "accordion-item";
+
+        // Create the first accordion header
+        var accordionHeader = document.createElement("h2");
+        accordionHeader.className = "accordion-header";
+        var headingID = generateUniqueID();
+        accordionHeader.id = headingID;
+
+        // Create the button within the accordion header
+        var accordionButton = document.createElement("button");
+        accordionButton.className = "accordion-button collapsed";
+        accordionButton.type = "button";
+        accordionButton.setAttribute("data-bs-toggle", "collapse");
+        var collapseTargetID = generateUniqueID();
+        accordionButton.setAttribute("data-bs-target", "#" + collapseTargetID);
+        accordionButton.setAttribute("aria-expanded", "false");
+        accordionButton.setAttribute("aria-controls",collapseTargetID);
+        accordionButton.textContent = paper.Date + " " + paper.Title;
+
+        // Append the button to the accordion header
+        accordionHeader.appendChild(accordionButton);
+
+        // Create the accordion collapse div
+        var accordionCollapseDiv = document.createElement("div");
+        accordionCollapseDiv.id = collapseTargetID;
+        accordionCollapseDiv.className = "accordion-collapse collapse";
+        accordionCollapseDiv.setAttribute("aria-labelledby", headingID);
+        accordionCollapseDiv.setAttribute("data-bs-parent", "#accordionFlushExample");
+
+        // Create the accordion body
+        var accordionBodyDiv = document.createElement("div");
+        accordionBodyDiv.className = "accordion-body";
+        accordionBodyDiv.textContent = "This should include the FullText summary created by the language model";
+
+        // Append the accordion body to the accordion collapse div
+        accordionCollapseDiv.appendChild(accordionBodyDiv);
+
+        // Append the accordion header and collapse div to the accordion item
+        accordionItemDiv.appendChild(accordionHeader);
+        accordionItemDiv.appendChild(accordionCollapseDiv);
+
+        // Append the accordion item to the outer accordion div
+        accordionDiv.appendChild(accordionItemDiv);
+
+        // Append the accordion div to the desired container element on your page
+        var container = document.getElementById("search-results"); // Replace "container" with the actual ID of the container element
+        container.appendChild(accordionDiv);
         });
         // Remove the loading icon
         searchResults.removeChild(loadingIcon);
     })
     .catch(error => console.log('error', error));
+}
+
+var counter = 1;
+
+// Function to generate unique IDs
+function generateUniqueID() {
+var uniqueID = "accordionItem" + counter;
+counter++;
+return uniqueID;
 }
