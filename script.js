@@ -1,12 +1,24 @@
     function includeHTML() {
-        var xhttp = new XMLHttpRequest();
-        xhttp.onreadystatechange = function () {
+        var navbarRequest = new XMLHttpRequest();
+        navbarRequest.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             document.getElementById("navbar-placeholder").innerHTML = this.responseText;
+            includeFooter();
         }
         };
-        xhttp.open("GET", "navbar.html", true);
-        xhttp.send();
+        navbarRequest.open("GET", "navbar.html", true);
+        navbarRequest.send();
+    }
+    
+    function includeFooter() {
+        var footerRequest = new XMLHttpRequest();
+        footerRequest.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("footer-placeholder").innerHTML = this.responseText;
+        }
+        };
+        footerRequest.open("GET", "footer.html", true);
+        footerRequest.send();
     }
     
     includeHTML();
