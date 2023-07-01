@@ -4,25 +4,35 @@ body {
     padding: 0;
 }
 
-.navbar-nav {
-    margin-right: 60px;
-}
-
-.navbar img {
-    margin-left: 60px;
-}
 .container {
     max-width: 100% !important;
     overflow-x: hidden !important;
 }
 
+.navbar-nav {
+    margin-right: 60px;
+}
+
+.navbar {
+    padding-left: 3.8%;
+    padding-right: 3.8%;
+}
+
 #starting-container {
-    padding-top: 100px;
+    padding-top: 120px;
+    padding-left: 8%;
+    padding-right: 8%;
 }
 
 #search-container {
     margin-top: 50px;
     margin-bottom: 20px;
+}
+
+#result-container {
+    padding-bottom: 40px;
+    padding-left: 8%;
+    padding-right: 8%;
 }
 
 .search-bar {
@@ -44,8 +54,8 @@ body {
     position: absolute;
     width: 30px;
     height: 30px;
-    top: 50%; /* Move the image vertically to the middle */
-    left: 50%; /* Move the image horizontally to the middle */
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
 }
 
@@ -85,27 +95,30 @@ input:-webkit-autofill:active {
     width: 40px;
 }
 
-/*This is the styling for the footer*/
 .footer {
-    border-top: 1px solid darkorchid;
+    border-top: 1px solid rgba(78, 33, 100, 0.212);
     background: #ffffff;
     height: 100px;
 }
 
-.footer img{
-   width: 200px;
+.footer img {
+    width: 200px;
+    opacity: 75%;
 }
+
+.footer p.text-black-50 {
+    font-size: 14px; /* Adjust the font size as desired */
+}
+
 .content {
     min-height: calc(100vh - 100px);
 }
 
 #footer-list li a {
     text-decoration: none;
-    color: grey;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 14px;
 }
-
-/* this is the styling for the search dynamically created results */
-
 
 .card-header .btn-link {
     padding-left: 0;
@@ -119,16 +132,6 @@ input:-webkit-autofill:active {
     font-size: 10px;
     background-color: #136fd8;
     color: #fff;
-}
-
-#headingOne .text-black-50 {
-    color: black;
-    font-weight: bold;
-}
-
-#headingOne .btn-link {
-    color: inherit;
-    text-decoration: none;
 }
 
 .nav-pills .nav-link {
@@ -154,24 +157,65 @@ input:-webkit-autofill:active {
 .badge-link:hover {
     cursor: pointer;
     text-decoration: none !important;
-}
-
-.badge-link:hover {
-    color: white;
-}
-
-.badge-link:hover {
-    cursor: pointer;
-    background: none;
-}
-
-.badge-link:hover ~ .card-header .text-black-50 {
-    text-decoration: none;
+    color: #ffffff;
 }
 
 .card-header .btn-link:hover,
 .card-header .btn-link:focus {
     text-decoration: none;
+}
+
+.nav-pills .nav-link.active {
+    background-color: grey !important;
+    color: white !important;
+}
+
+.nav-pills .nav-link {
+    background-color: white !important;
+    color: grey !important;
+    border: 1px solid grey !important;
+    margin-right: 5px !important;
+}
+
+.card-header .btn-link {
+    padding-left: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    text-decoration: none !important;
+}
+
+.card-header .btn-link:hover,
+.card-header .btn-link:focus {
+    text-decoration: none !important;
+}
+
+.badge-date {
+    margin-right: 10px !important;
+    padding: 5px 8px !important;
+    font-size: 10px !important;
+    background-color: #136fd8 !important;
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+#accordion a {
+    text-decoration: none !important;
+    cursor: pointer !important;
+}
+
+#accordion .card-header .btn-link:hover,
+#accordion .card-header .btn-link:focus {
+    text-decoration: none !important;
+}
+
+#accordion .card-header .btn-link:hover .badge-date,
+#accordion .card-header .btn-link:focus .badge-date {
+    text-decoration: none !important;
+}
+
+#accordion .card-header .btn-link:hover span.text-black-50,
+#accordion .card-header .btn-link:focus span.text-black-50 {
+    text-decoration: none !important;
 }
 
 @media only screen and (max-width: 991px) {
@@ -185,7 +229,24 @@ input:-webkit-autofill:active {
     }
 
     .smaller-logo {
-        max-width: 25%;
+        max-width: 35%;
         padding-left: 20px;
     }
+
+    #starting-container {
+        padding-top: 120px;
+        padding-left: 1px;
+        padding-right: 1px;
+    }
+    
+    #result-container {
+        padding-bottom: 40px;
+        padding-left: 1px;
+        padding-right: 1px;
+    }
+    .navbar {
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
+

@@ -1,4 +1,3 @@
-
 // Sample data
 const papers = [
     {
@@ -25,7 +24,7 @@ const papers = [
 ];
 
 // Generate the content dynamically
-const container = document.querySelector('.container.pt-5');
+const container = document.getElementById('result-container');
 const accordion = document.getElementById('accordion');
 
 papers.forEach((paper, index) => {
@@ -37,9 +36,10 @@ papers.forEach((paper, index) => {
     cardHeader.id = `heading${index}`;
 
     const titleButton = document.createElement('button');
-    titleButton.className = 'btn btn-link';
-    titleButton.setAttribute('data-toggle', 'collapse');
-    titleButton.setAttribute('data-target', `#collapse${index}`);
+    titleButton.className = 'btn btn-link collapsed';
+    titleButton.setAttribute('type', 'button');
+    titleButton.setAttribute('data-bs-toggle', 'collapse');
+    titleButton.setAttribute('data-bs-target', `#collapse${index}`);
     titleButton.setAttribute('aria-expanded', 'false');
     titleButton.setAttribute('aria-controls', `collapse${index}`);
 
@@ -60,7 +60,7 @@ papers.forEach((paper, index) => {
     collapseDiv.id = `collapse${index}`;
     collapseDiv.className = 'collapse';
     collapseDiv.setAttribute('aria-labelledby', `heading${index}`);
-    collapseDiv.setAttribute('data-parent', '#accordion');
+    collapseDiv.setAttribute('data-bs-parent', '#accordion');
 
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
@@ -75,8 +75,9 @@ papers.forEach((paper, index) => {
     const enNavLink = document.createElement('button');
     enNavLink.className = 'btn btn-light nav-link active';
     enNavLink.setAttribute('id', `pills-en-${index}`);
-    enNavLink.setAttribute('data-toggle', 'pill');
-    enNavLink.setAttribute('href', `#pills-en-${index}-tab`);
+    enNavLink.setAttribute('type', 'button');
+    enNavLink.setAttribute('data-bs-toggle', 'pill');
+    enNavLink.setAttribute('data-bs-target', `#pills-en-${index}-tab`);
     enNavLink.setAttribute('role', 'tab');
     enNavLink.setAttribute('aria-controls', `pills-en-${index}`);
     enNavLink.setAttribute('aria-selected', 'true');
@@ -91,12 +92,13 @@ papers.forEach((paper, index) => {
     const jpNavLink = document.createElement('button');
     jpNavLink.className = 'btn btn-light nav-link';
     jpNavLink.setAttribute('id', `pills-jp-${index}`);
-    jpNavLink.setAttribute('data-toggle', 'pill');
-    jpNavLink.setAttribute('href', `#pills-jp-${index}-tab`);
+    jpNavLink.setAttribute('type', 'button');
+    jpNavLink.setAttribute('data-bs-toggle', 'pill');
+    jpNavLink.setAttribute('data-bs-target', `#pills-jp-${index}-tab`);
     jpNavLink.setAttribute('role', 'tab');
     jpNavLink.setAttribute('aria-controls', `pills-jp-${index}`);
     jpNavLink.setAttribute('aria-selected', 'false');
-    jpNavLink.innerText = 'Japanese';
+    jpNavLink.innerText = '日本語';
 
     jpNavItem.appendChild(jpNavLink);
     navPills.appendChild(jpNavItem);
