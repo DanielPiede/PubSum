@@ -120,6 +120,10 @@ input:-webkit-autofill:active {
     font-size: 14px;
 }
 
+#loading-container{
+    margin-top: 25px;
+}
+
 .card-header .btn-link {
     padding-left: 0;
     display: flex;
