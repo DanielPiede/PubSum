@@ -10,7 +10,7 @@ body {
 }
 
 #starting-container {
-    margin-top: 150px;
+    padding-top: 100px;
 }
 
 #search-container {
@@ -21,7 +21,7 @@ body {
 
 #search-results {
     justify-content: center;
-    margin-bottom: 8%;
+    margin-bottom: 2%;
 }
 
 .navbar img {
@@ -88,7 +88,6 @@ input:-webkit-autofill:active {
 }
 
 
-
 .loading-icon {
     height: 40px;
     width: 40px;
@@ -133,6 +132,14 @@ input:-webkit-autofill:active {
 .footer {
     border-top: 1px solid darkorchid;
     background: #ffffff;
+    height: 100px;
+}
+
+.footer img{
+   width: 200px;
+}
+.content {
+    min-height: calc(100vh - 100px);
 }
 
 #footer-list li a {
@@ -140,8 +147,18 @@ input:-webkit-autofill:active {
     color: grey;
 }
 
-@media only screen and (max-width: 700px) {
-    .navbar img {
-        margin-left: 0px;
+@media only screen and (max-width: 991px) {
+    .footer .row {
+        flex-wrap: wrap;
+    }
+
+    .footer .col-md-4 {
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+
+    .smaller-logo {
+        max-width: 25%;
+        padding-left: 20px;
     }
 }
