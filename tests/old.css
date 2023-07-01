@@ -4,13 +4,6 @@ body {
     padding: 0;
 }
 
-.navbar-nav {
-    margin-right: 60px;
-}
-
-.navbar img {
-    margin-left: 60px;
-}
 .container {
     max-width: 100% !important;
     overflow-x: hidden !important;
@@ -22,7 +15,21 @@ body {
 
 #search-container {
     margin-top: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+
+#search-results {
+    justify-content: center;
+    margin-bottom: 2%;
+}
+
+.navbar img {
+    margin-left: 60px;
+}
+
+.navbar-nav {
+    margin-right: 60px;
 }
 
 .search-bar {
@@ -80,12 +87,48 @@ input:-webkit-autofill:active {
     -webkit-text-fill-color: #fff !important;
 }
 
+
 .loading-icon {
     height: 40px;
     width: 40px;
 }
 
-/*This is the styling for the footer*/
+.card-header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-color: rgba(14, 134, 214, 0.267);
+    border-style: ridge bottom;
+    border-width: 1px;
+}
+
+.card-header .badge {
+    background-color: dimgray;
+    color: white;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+.card-header .paper-title {
+    flex-grow: 1;
+    padding: 0px 10px 0px 30px;
+    width: 80%;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-header .ai-summary-button {
+    width: 100px;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    margin-left: auto;
+}
+
+.card-body {
+    padding: 10px;
+}
+
 .footer {
     border-top: 1px solid darkorchid;
     background: #ffffff;
@@ -102,76 +145,6 @@ input:-webkit-autofill:active {
 #footer-list li a {
     text-decoration: none;
     color: grey;
-}
-
-/* this is the styling for the search dynamically created results */
-
-
-.card-header .btn-link {
-    padding-left: 0;
-    display: flex;
-    align-items: center;
-}
-
-.badge-date {
-    margin-right: 10px;
-    padding: 5px 8px;
-    font-size: 10px;
-    background-color: #136fd8;
-    color: #fff;
-}
-
-#headingOne .text-black-50 {
-    color: black;
-    font-weight: bold;
-}
-
-#headingOne .btn-link {
-    color: inherit;
-    text-decoration: none;
-}
-
-.nav-pills .nav-link {
-    font-size: 12px;
-    padding: 0.375rem 0.75rem;
-    margin-right: 5px;
-    border: 1px solid #e9ecef;
-}
-
-.nav-pills .nav-link.active {
-    color: #fff;
-    background-color: #f8f9fa;
-    border: 1px solid #dee2e6;
-}
-
-.badge-link {
-    border: 1px solid #e9ecef;
-    background: linear-gradient(to right, #007bff, #9c27b0);
-    color: #fff;
-    cursor: pointer;
-}
-
-.badge-link:hover {
-    cursor: pointer;
-    text-decoration: none !important;
-}
-
-.badge-link:hover {
-    color: white;
-}
-
-.badge-link:hover {
-    cursor: pointer;
-    background: none;
-}
-
-.badge-link:hover ~ .card-header .text-black-50 {
-    text-decoration: none;
-}
-
-.card-header .btn-link:hover,
-.card-header .btn-link:focus {
-    text-decoration: none;
 }
 
 @media only screen and (max-width: 991px) {

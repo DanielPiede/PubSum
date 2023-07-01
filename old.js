@@ -22,7 +22,7 @@
     }
     
     includeHTML();
-    includeFooter();
+    includeFooter()
     
     document.addEventListener("DOMContentLoaded", function () {});
     
