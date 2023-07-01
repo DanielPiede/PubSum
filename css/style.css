@@ -78,6 +78,10 @@ body {
     color: #ffffff;
 }
 
+.title-left-align {
+    text-align: left;
+}  
+
 ::placeholder {
     color: #ffffff;
 }
@@ -121,7 +125,7 @@ input:-webkit-autofill:active {
 }
 
 #loading-container{
-    margin-top: 25px;
+    margin-top: 15px;
 }
 
 .card-header .btn-link {

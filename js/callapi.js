@@ -1,9 +1,23 @@
 document.addEventListener("DOMContentLoaded", function () {});
-    
+
+var loadingContainer = document.getElementById("loading-container");
+// Create the loading icon element
+var loadingIcon = document.createElement("div");
+loadingIcon.className ="spinner-grow text-primary"
+loadingIcon.role = "status";
+
+var loadingSpan = document.createElement("span");
+loadingSpan.className = "visually-hidden";
+loadingSpan.textContent = "Loading...";
+
 function callAPI(event) {
     event.preventDefault(); // Prevent the form from submitting normally
+
     var searchInput = document.getElementById("search");
     var searchValue = searchInput.value;
+    loadingContainer.innerHTML = "";
+    const accordion = document.getElementById('accordion');
+    accordion.innerHTML = "";
 
     var myHeaders = new Headers();
     myHeaders.append("Content-Type", "application/json");
@@ -16,18 +30,7 @@ function callAPI(event) {
     redirect: "follow",
     };
 
-    // Create the loading icon element
-    var loadingIcon = document.createElement("div");
-    loadingIcon.className ="spinner-grow text-primary"
-    loadingIcon.role = "status";
-
-    var loadingSpan = document.createElement("span");
-    loadingSpan.className = "visually-hidden";
-    loadingSpan.textContent = "Loading...";
-
     loadingIcon.appendChild(loadingSpan);
-
-    var loadingContainer = document.getElementById("loading-container");
     loadingContainer.appendChild(loadingIcon);
 
     // Append Loading Icon and clear search results:
@@ -36,7 +39,8 @@ function callAPI(event) {
     .then((response) => response.json()) // Parse the response as JSON
     .then((result) => {
         buildPapers(result);
+        loadingContainer.removeChild(loadingIcon);
     })
     .catch((error) => console.log("error", error));
-
 }
+

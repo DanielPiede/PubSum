@@ -1,8 +1,10 @@
 function buildPapers(result){
-    const container = document.getElementById('result-container');
-    const accordion = document.getElementById('accordion');
 
-        result.body.papers.forEach((paper, index) => {
+        const accordion = document.getElementById('accordion');
+        var index = 0;
+
+        result.body.papers.forEach((paper) => {
+        index++;
         const card = document.createElement('div');
         card.className = 'card';
 
@@ -11,7 +13,7 @@ function buildPapers(result){
         cardHeader.id = `heading${index}`;
 
         const titleButton = document.createElement('button');
-        titleButton.className = 'btn btn-link collapsed';
+        titleButton.className = 'btn btn-link collapsed title-left-align';
         titleButton.setAttribute('type', 'button');
         titleButton.setAttribute('data-bs-toggle', 'collapse');
         titleButton.setAttribute('data-bs-target', `#collapse${index}`);
@@ -20,11 +22,11 @@ function buildPapers(result){
 
         const badgeDate = document.createElement('div');
         badgeDate.className = 'badge badge-date';
-        badgeDate.innerText = paper.date;
+        badgeDate.innerText = paper.Date;
 
         const titleSpan = document.createElement('span');
         titleSpan.className = 'text-black-50';
-        titleSpan.innerText = paper.title;
+        titleSpan.innerText = paper.Title;
 
         titleButton.appendChild(badgeDate);
         titleButton.appendChild(titleSpan);
@@ -80,7 +82,8 @@ function buildPapers(result){
 
         const sourceLink = document.createElement('a');
         sourceLink.className = 'badge badge-link';
-        sourceLink.href = paper.doi;
+        sourceLink.href = "https://doi.org/" + paper.DOI;
+        sourceLink.target = '_blank';
         sourceLink.innerText = 'Source Link';
 
         const linkContainer = document.createElement('div');
@@ -97,14 +100,14 @@ function buildPapers(result){
         enTabPane.id = `pills-en-${index}-tab`;
         enTabPane.setAttribute('role', 'tabpanel');
         enTabPane.setAttribute('aria-labelledby', `pills-en-${index}`);
-        enTabPane.innerText = paper.enSum;
+        enTabPane.innerText = "English Summary";//paper.enSum; CHANGE HERE
 
         const jpTabPane = document.createElement('div');
         jpTabPane.className = 'tab-pane fade';
         jpTabPane.id = `pills-jp-${index}-tab`;
         jpTabPane.setAttribute('role', 'tabpanel');
         jpTabPane.setAttribute('aria-labelledby', `pills-jp-${index}`);
-        jpTabPane.innerText = paper.jpSum;
+        jpTabPane.innerText = "Japanese Summary";//paper.jpSum; CHANGE HERE
 
         tabContent.appendChild(enTabPane);
         tabContent.appendChild(jpTabPane);
