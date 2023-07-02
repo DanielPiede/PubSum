@@ -134,6 +134,21 @@ input:-webkit-autofill:active {
     align-items: center;
 }
 
+.language-badge {
+    color: rgb(0, 119, 255);
+    background-color: white;
+    border: 1px solid rgb(0, 119, 255);
+    margin-right: 5px;
+    cursor: default;
+    pointer-events: none;
+}
+
+.language-badge:hover {
+    cursor: default !important;
+}
+
+
+
 .badge-date {
     margin-right: 10px;
     padding: 5px 8px;

@@ -1,9 +1,8 @@
-function buildPapers(result){
+function buildPapers(result) {
+    const accordion = document.getElementById('accordion');
+    var index = 0;
 
-        const accordion = document.getElementById('accordion');
-        var index = 0;
-
-        result.body.papers.forEach((paper) => {
+    result.body.papers.forEach((paper) => {
         index++;
         const card = document.createElement('div');
         card.className = 'card';
@@ -86,10 +85,21 @@ function buildPapers(result){
         sourceLink.target = '_blank';
         sourceLink.innerText = 'Source Link';
 
+        const language = document.createElement('a');
+        language.className = 'badge language-badge';
+        language.innerText = paper.Language + ' Paper';
+
         const linkContainer = document.createElement('div');
         linkContainer.className = 'd-flex justify-content-between align-items-center';
         linkContainer.appendChild(navPills);
-        linkContainer.appendChild(sourceLink);
+
+        // Create a wrapper div for the badges
+        const badgesWrapper = document.createElement('div');
+
+        badgesWrapper.appendChild(language);
+        badgesWrapper.appendChild(sourceLink);
+
+        linkContainer.appendChild(badgesWrapper);
 
         const tabContent = document.createElement('div');
         tabContent.className = 'tab-content';
@@ -100,14 +110,14 @@ function buildPapers(result){
         enTabPane.id = `pills-en-${index}-tab`;
         enTabPane.setAttribute('role', 'tabpanel');
         enTabPane.setAttribute('aria-labelledby', `pills-en-${index}`);
-        enTabPane.innerText = "English Summary";//paper.enSum; CHANGE HERE
+        enTabPane.innerText = "English Summary"; //paper.enSum; CHANGE HERE
 
         const jpTabPane = document.createElement('div');
         jpTabPane.className = 'tab-pane fade';
         jpTabPane.id = `pills-jp-${index}-tab`;
         jpTabPane.setAttribute('role', 'tabpanel');
         jpTabPane.setAttribute('aria-labelledby', `pills-jp-${index}`);
-        jpTabPane.innerText = "Japanese Summary";//paper.jpSum; CHANGE HERE
+        jpTabPane.innerText = "Japanese Summary"; //paper.jpSum; CHANGE HERE
 
         tabContent.appendChild(enTabPane);
         tabContent.appendChild(jpTabPane);
