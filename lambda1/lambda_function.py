@@ -11,7 +11,7 @@ def invoke_second_lambda(full_text_link):
         'link': full_text_link
     }
     response = lambda_client.invoke(
-        FunctionName='retrieveText',  # Replace with your second Lambda function name
+        FunctionName='arn:aws:lambda:ap-northeast-1:392491164501:function:retrieveText',  # Replace with your second Lambda function name
         InvocationType='Event',
         Payload=json.dumps(payload)
     )
