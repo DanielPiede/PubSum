@@ -21,11 +21,11 @@ function buildPapers(result) {
 
         const badgeDate = document.createElement('div');
         badgeDate.className = 'badge badge-date';
-        badgeDate.innerText = paper.Date;
+        badgeDate.innerText = paper.date;
 
         const titleSpan = document.createElement('span');
         titleSpan.className = 'text-black-50';
-        titleSpan.innerText = paper.Title;
+        titleSpan.innerText = paper.title;
 
         titleButton.appendChild(badgeDate);
         titleButton.appendChild(titleSpan);
@@ -81,13 +81,15 @@ function buildPapers(result) {
 
         const sourceLink = document.createElement('a');
         sourceLink.className = 'badge badge-link';
-        sourceLink.href = "https://doi.org/" + paper.DOI;
+        sourceLink.href = "https://doi.org/" + paper.doi;
         sourceLink.target = '_blank';
         sourceLink.innerText = 'Source Link';
 
-        const language = document.createElement('a');
-        language.className = 'badge language-badge';
-        language.innerText = paper.Language + ' Paper';
+        const pdfLink = document.createElement('a');
+        sourceLink.className = 'badge badge-link';
+        sourceLink.href = paper.pdflink;
+        sourceLink.target = '_blank';
+        sourceLink.innerText = 'PDF File';
 
         const linkContainer = document.createElement('div');
         linkContainer.className = 'd-flex justify-content-between align-items-center';
@@ -96,7 +98,7 @@ function buildPapers(result) {
         // Create a wrapper div for the badges
         const badgesWrapper = document.createElement('div');
 
-        badgesWrapper.appendChild(language);
+        badgesWrapper.appendChild(pdfLink);
         badgesWrapper.appendChild(sourceLink);
 
         linkContainer.appendChild(badgesWrapper);
