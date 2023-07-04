@@ -41,7 +41,7 @@ def lambda_handler(event, context):
     articles = output.split('\n\n')
 
     # Regular expression patterns for extracting information
-    title_pattern = r'\d+: (.*?)[\n,.]'
+    title_pattern = r'\d:\s+(.*?)\n'
     authors_pattern = r'\n(.*?)\n'
     date_pattern = r'Published online (\d{4} [A-Za-z]+ \d{1,2})\.'
     doi_pattern = r"doi:\xa0(\S+)"
