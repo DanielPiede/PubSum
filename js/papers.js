@@ -126,7 +126,7 @@ function buildPapers(result) {
         enTabPane.id = `pills-en-${index}-tab`;
         enTabPane.setAttribute('role', 'tabpanel');
         enTabPane.setAttribute('aria-labelledby', `pills-en-${index}`);
-        enTabPane.innerText = "English Summary"; //paper.enSum; CHANGE HERE
+        enTabPane.innerText = paper.fulltext; //paper.enSum; CHANGE HERE LATER NOW FULLTEXT FOR TESTING ONLY
 
         const jpTabPane = document.createElement('div');
         jpTabPane.className = 'tab-pane fade';
