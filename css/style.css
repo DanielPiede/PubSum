@@ -80,7 +80,7 @@ body {
 
 .title-left-align {
     text-align: left;
-}  
+}
 
 ::placeholder {
     color: #ffffff;
@@ -111,7 +111,8 @@ input:-webkit-autofill:active {
 }
 
 .footer p.text-black-50 {
-    font-size: 14px; /* Adjust the font size as desired */
+    font-size: 14px;
+    /* Adjust the font size as desired */
 }
 
 .content {
@@ -124,7 +125,7 @@ input:-webkit-autofill:active {
     font-size: 14px;
 }
 
-#loading-container{
+#loading-container {
     margin-top: 15px;
 }
 
@@ -134,19 +135,39 @@ input:-webkit-autofill:active {
     align-items: center;
 }
 
-.language-badge {
-    color: rgb(0, 119, 255);
+.pmcid-badge {
     background-color: white;
-    border: 1px solid rgb(0, 119, 255);
-    margin-right: 5px;
-    cursor: default;
-    pointer-events: none;
+    color: #007bff;
+    border: 1px solid #007bff;
 }
 
-.language-badge:hover {
-    cursor: default !important;
+.doi-badge {
+    background-color: white;
+    color: #007bff;
+    border: 1px solid #007bff;
 }
 
+.pdf-badge {
+    border: 1px solid linear-gradient(to right, #007bff, #9c27b0);
+    background: linear-gradient(to right, #007bff, #9c27b0);
+    color: #fff;
+    cursor: pointer;
+}
+
+.badge:hover {
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+.badges-container {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.badge {
+    padding: 4px 8px;
+    margin-left: 4px;
+}
 
 
 .badge-date {
@@ -168,19 +189,6 @@ input:-webkit-autofill:active {
     color: #fff;
     background-color: #f8f9fa;
     border: 1px solid #dee2e6;
-}
-
-.badge-link {
-    border: 1px solid #e9ecef;
-    background: linear-gradient(to right, #007bff, #9c27b0);
-    color: #fff;
-    cursor: pointer;
-}
-
-.badge-link:hover {
-    cursor: pointer;
-    text-decoration: none !important;
-    color: #ffffff;
 }
 
 .card-header .btn-link:hover,
@@ -261,15 +269,15 @@ input:-webkit-autofill:active {
         padding-left: 1px;
         padding-right: 1px;
     }
-    
+
     #result-container {
         padding-bottom: 40px;
         padding-left: 1px;
         padding-right: 1px;
     }
+
     .navbar {
         padding-left: 0;
         padding-right: 0;
     }
 }
-

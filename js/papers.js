@@ -41,6 +41,12 @@ function buildPapers(result) {
         const cardBody = document.createElement('div');
         cardBody.className = 'card-body';
 
+        const linkContainer = document.createElement('div');
+        linkContainer.className = 'd-flex justify-content-between align-items-center';
+
+        const buttonWrapper = document.createElement('div');
+        buttonWrapper.className = 'd-flex align-items-center';
+
         const navPills = document.createElement('ul');
         navPills.className = 'nav nav-pills mb-3';
         navPills.id = `pills-${index}`;
@@ -79,29 +85,37 @@ function buildPapers(result) {
         jpNavItem.appendChild(jpNavLink);
         navPills.appendChild(jpNavItem);
 
-        const sourceLink = document.createElement('a');
-        sourceLink.className = 'badge badge-link';
-        sourceLink.href = "https://doi.org/" + paper.doi;
-        sourceLink.target = '_blank';
-        sourceLink.innerText = 'Source Link';
+        buttonWrapper.appendChild(navPills);
 
-        const pdfLink = document.createElement('a');
-        sourceLink.className = 'badge badge-link';
-        sourceLink.href = paper.pdflink;
-        sourceLink.target = '_blank';
-        sourceLink.innerText = 'PDF File';
+        const badgesContainer = document.createElement('div');
+        badgesContainer.className = 'badges-container';
 
-        const linkContainer = document.createElement('div');
-        linkContainer.className = 'd-flex justify-content-between align-items-center';
-        linkContainer.appendChild(navPills);
+        const pmcidBadge = document.createElement('a');
+        pmcidBadge.className = 'badge pmcid-badge';
+        pmcidBadge.href = "https://www.ncbi.nlm.nih.gov/pmc/articles/" + paper.pmcid;
+        pmcidBadge.innerText = 'PMCID';
+        pmcidBadge.target = "_blank";
+        pmcidBadge.title = paper.pmcid;
+        
+        const doiBadge = document.createElement('a');
+        doiBadge.className = 'badge doi-badge';
+        doiBadge.href = "https://www.doi.org/" + paper.doi;
+        doiBadge.innerText = 'DOI';
+        doiBadge.target = '_blank';
+        doiBadge.title = paper.doi;
+        
+        const pdfBadge = document.createElement('a');
+        pdfBadge.className = 'badge pdf-badge';
+        pdfBadge.href = "https://www.ncbi.nlm.nih.gov/pmc/articles/" + paper.pmcid + "/pdf";
+        pdfBadge.target = "_blank";
+        pdfBadge.innerText = 'PDF';
+        
+        badgesContainer.appendChild(pmcidBadge);
+        badgesContainer.appendChild(doiBadge);
+        badgesContainer.appendChild(pdfBadge);
 
-        // Create a wrapper div for the badges
-        const badgesWrapper = document.createElement('div');
-
-        badgesWrapper.appendChild(pdfLink);
-        badgesWrapper.appendChild(sourceLink);
-
-        linkContainer.appendChild(badgesWrapper);
+        linkContainer.appendChild(buttonWrapper);
+        linkContainer.appendChild(badgesContainer);
 
         const tabContent = document.createElement('div');
         tabContent.className = 'tab-content';
