@@ -4,8 +4,7 @@ from Bio import Entrez
 from bs4 import BeautifulSoup
 import boto3
 from datetime import datetime
-
-# client = boto3.client('lambda')
+import xml.etree.ElementTree as ET
 
 def lambda_handler(event, context):
     url = f"https://www.ncbi.nlm.nih.gov/pmc/?term={event['search']}"
@@ -76,6 +75,36 @@ def lambda_handler(event, context):
         pmcid_match = re.findall(pmcid_pattern, article)
         paper['pmcid'] = pmcid_match[0] if pmcid_match else None
         paper['pdflink'] = f"https://www.ncbi.nlm.nih.gov/pmc/articles/{paper['pmcid']}/pdf"
+        
+        # URL of the API for fulltext
+        api_url = f"https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/{paper['pmcid']}/unicode"
+        
+        # Send a GET request to the API URL
+        response = requests.get(api_url)
+        
+        # Check if the request was successful
+        if response.status_code == 200:   
+        # Get the XML data from the response
+            xml_data = response.content.decode("utf-8")
+        else:
+            # Print an error message if the request was not successful
+            print("Failed to retrieve XML data. Error:", response.status_code)
+            paper['fulltext'] = "N/A"
+
+        root = ET.fromstring(xml_data, parser=ET.XMLParser(encoding="utf-8"))
+        
+        # Find all passages marked as paragraphs (type: "paragraph")
+        paragraphs = root.iter('passage')
+        
+        # Filter passages based on infon attributes
+        filtered_paragraphs = [
+            passage.find('text').text
+            for passage in paragraphs
+            if passage.find('infon[@key="type"]') is not None and passage.find('infon[@key="type"]').text == "paragraph"
+        ]
+
+        # Join the filtered paragraph texts into a single string
+        paper['fulltext'] = "\n".join(filtered_paragraphs)
 
         paper_list.append(paper)
         
@@ -86,3 +115,16 @@ def lambda_handler(event, context):
         }
     }
     return json_response
+
+
+
+
+
+
+
+
+
+
+
+
+
