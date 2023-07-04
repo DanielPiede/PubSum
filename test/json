@@ -1,0 +1,1850 @@
+{
+    "source": "PMC",
+    "date": "20220801",
+    "key": "pmc.key",
+    "infons": {},
+    "documents": [
+        {
+            "id": "9322578",
+            "infons": {
+                "license": "CC BY-NC"
+            },
+            "passages": [
+                {
+                    "offset": 0,
+                    "infons": {
+                        "alt-title": "Bergqvist et al.",
+                        "article-id_doi": "10.1111/apt.16927",
+                        "article-id_other": "APT-0322-2022.R1",
+                        "article-id_pmc": "9322578",
+                        "article-id_pmid": "35470449",
+                        "article-id_publisher-id": "APT16927",
+                        "fn": "\nFunding information\n This work was made possible through financial support from the Healthcare Region of Southern Sweden, and by grants to researchers in public health care from the Swedish government (ALFSKANE\u2010539811) to Jan Marsal. The Handling Editor for this article was Dr Rohit Loomba, and it was accepted for publication after full peer\u2010review.",
+                        "fpage": "1389",
+                        "issue": "11",
+                        "license": "This is an open access article under the terms of the http://creativecommons.org/licenses/by-nc/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.",
+                        "lpage": "1401",
+                        "name_0": "surname:Bergqvist;given-names:Viktoria",
+                        "name_1": "surname:Holmgren;given-names:Johanna",
+                        "name_2": "surname:Klintman;given-names:Daniel",
+                        "name_3": "surname:Marsal;given-names:Jan",
+                        "notes": "\n\n, , , . . . ;:\u2013. \n\n",
+                        "pub-id_doi": "10.1111/apt.16927",
+                        "pub-id_pmid": "35470449",
+                        "section_type": "TITLE",
+                        "source": "Aliment Pharmacol Ther",
+                        "type": "front",
+                        "volume": "55",
+                        "year": "2022"
+                    },
+                    "text": "Real\u2010world data on switching from intravenous to subcutaneous vedolizumab treatment in patients with inflammatory bowel disease",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 130,
+                    "infons": {
+                        "section_type": "ABSTRACT",
+                        "type": "abstract_title_1"
+                    },
+                    "text": "Summary",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 138,
+                    "infons": {
+                        "section_type": "ABSTRACT",
+                        "type": "abstract_title_1"
+                    },
+                    "text": "Background and Aims",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 158,
+                    "infons": {
+                        "section_type": "ABSTRACT",
+                        "type": "abstract"
+                    },
+                    "text": "Vedolizumab is a gut\u2010selective treatment approved for Crohn\u2019s disease (CD) and ulcerative colitis (UC). Recently, a subcutaneous formulation of vedolizumab was approved. The aims of this study were to evaluate efficacy, safety, pharmacokinetics, patient experience and costs following a switch from intravenous to subcutaneous vedolizumab treatment.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 512,
+                    "infons": {
+                        "section_type": "ABSTRACT",
+                        "type": "abstract_title_1"
+                    },
+                    "text": "Methods",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 520,
+                    "infons": {
+                        "section_type": "ABSTRACT",
+                        "type": "abstract"
+                    },
+                    "text": "Patients were switched from intravenous to subcutaneous vedolizumab maintenance treatment and followed prospectively for 6 months and a subgroup for 12\u00a0months. The primary endpoint was change in faecal calprotectin levels. Furthermore, we evaluated clinical disease activity, remission rates, plasma CRP, drug persistence, adverse events, local injection reactions, serum drug concentrations, patient satisfaction, quality\u2010of\u2010life and treatment costs.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 977,
+                    "infons": {
+                        "section_type": "ABSTRACT",
+                        "type": "abstract_title_1"
+                    },
+                    "text": "Results",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 985,
+                    "infons": {
+                        "section_type": "ABSTRACT",
+                        "type": "abstract"
+                    },
+                    "text": "Eighty\u2010nine patients were included (48 CD; 41 UC). Faecal calprotectin decreased significantly in CD but not in UC. Clinical indices, remission rates, plasma CRP levels and quality\u2010of\u2010life scores remained unchanged. Patients that had been on standard compared to optimised IV vedolizumab dosing displayed similar outcomes on standard SC dosing. Drug persistence at 6 and 12\u00a0months was 95.5% and 88.5%, respectively. Frequencies of adverse events were similar before and after the switch. No serious adverse events occurred. Transient severe local injection reactions were experienced by 1.2% of patients. Median vedolizumab trough levels were 2.3 times higher on subcutaneous compared to intravenous treatment. Patient satisfaction was generally high. Annualised treatment costs were reduced by 15% following the switch.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 1813,
+                    "infons": {
+                        "section_type": "ABSTRACT",
+                        "type": "abstract_title_1"
+                    },
+                    "text": "Conclusions",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 1825,
+                    "infons": {
+                        "section_type": "ABSTRACT",
+                        "type": "abstract"
+                    },
+                    "text": "The switch from intravenous to subcutaneous vedolizumab could be done with preserved therapeutic effectiveness, safety, high patient satisfaction and low discontinuation rate, at a reduced cost.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 2020,
+                    "infons": {
+                        "section_type": "ABSTRACT",
+                        "type": "abstract"
+                    },
+                    "text": "This prospective real\u2010world study examined switching patients with IBD from maintenance IV vedolizumab treatment to SC vedolizumab. The following was studied: efficacy, safety, pharmacokinetics, patient experience, and costs. All patients, including those that had been on optimized IV dosing, were switched to the standard SC dose. The switch could be done with preserved therapeutic effectiveness, preserved safety, high patient satisfaction, and low discontinuation rate, at a reduced cost. ",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 2517,
+                    "infons": {
+                        "section_type": "INTRO",
+                        "type": "title_1"
+                    },
+                    "text": "INTRODUCTION",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 2530,
+                    "infons": {
+                        "section_type": "INTRO",
+                        "type": "paragraph"
+                    },
+                    "text": "The inflammatory process of Crohn\u2019s disease (CD) or ulcerative colitis (UC), which are the two main forms of inflammatory bowel disease (IBD), is thought to be driven by the infiltration of dysregulated proinflammatory immune cells into the inflamed intestinal tissue. This infiltration is facilitated by the interaction between the integrin \u03b14\u03b27, which is expressed on several circulating immune cell subsets including previously activated T\u2010cells, and its counterreceptor Mucosal Addressin Cell Adhesion Molecule\u20101 (MAdCAM\u20101), which is selectively expressed on the endothelial cells of intestinal venules. ",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 3149,
+                    "infons": {
+                        "section_type": "INTRO",
+                        "type": "paragraph"
+                    },
+                    "text": "Vedolizumab is a humanised monoclonal IgG1 antibody that binds to \u03b14\u03b27 and inhibits the interaction with MAdCAM\u20101. This prevents \u03b14\u03b27\u2010expressing immune cells from extravasating which leads to a decrease in local inflammatory activity. More recently, vedolizumab has been shown to modulate innate immunity, including macrophage and dendritic cell populations, in addition to adaptive immunity. The limited expression pattern of MAdCAM\u20101 is thought to account for vedolizumab\u2019s gut\u2010specific immunosuppressive effect which in turn translates into a beneficial safety profile. ",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 3737,
+                    "infons": {
+                        "section_type": "INTRO",
+                        "type": "paragraph"
+                    },
+                    "text": "Vedolizumab is approved for the treatment of patients with moderate\u2010to\u2010severe CD or UC, where treatment with conventional therapy or an anti\u2010TNF agent has failed. Vedolizumab was originally developed for administration via intravenous (IV) infusions. Recently, a formulation for subcutaneous (SC) administration was approved for maintenance treatment following at least two IV infusions. This approval was based on the phase III trials VISIBLE 1 and VISIBLE 2 which evaluated SC vedolizumab treatment after two initial IV doses in CD and UC patients, respectively. The proportion of subjects in clinical remission 52 weeks after the start of treatment, which was the primary endpoint, was significantly higher in the SC vedolizumab\u2010treated group compared to the placebo group, in both trials. Median trough concentrations at steady state during SC vedolizumab were 30.2 and 34.6\u00a0\u03bcg/ml for CD and UC patients, respectively, which was substantially higher than the median trough level during IV treatment presented in VISIBLE 1 (11.1\u00a0\u03bcg/ml). In contrast, the average serum concentrations over time were rather similar (39.8 and 32.2\u00a0\u03bcg/ml, during SC and IV treatment, respectively). Finally, there were no new safety issues observed, other than the incidence of injection\u2010site reaction frequencies. However, data on patient experience or satisfaction were not presented in the VISIBLE publications, and studies to investigate the efficacy and safety of switching patients from maintenance IV to maintenance SC vedolizumab treatment in a real\u2010world setting are scarce. To our knowledge, there is only one report on the topic, and in that study, the follow\u2010up time after the switch was only 12\u2009weeks. Given that the half\u2010life of the drug is approximately 26\u2009days and that the wash\u2010out period is several months, such a short follow\u2010up time may not be adequate to examine the effectiveness of the SC formulation. Nevertheless, the authors described a 52% increase (p\u2009<\u20090.01) in the patients' faecal calprotectin levels at the end of their study which was rather unexpected. Thus, further studies are warranted.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 5876,
+                    "infons": {
+                        "section_type": "INTRO",
+                        "type": "paragraph"
+                    },
+                    "text": "There are several potential benefits with SC as compared to IV administration of vedolizumab including a reduced burden of health care resources and increased patient convenience. Potential caveats with SC treatment are increased difficulties to ensure therapy compliance, fewer built\u2010in disease follow\u2010up visits, possible IV treatment preference and local skin reactions to SC injections.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 6270,
+                    "infons": {
+                        "section_type": "INTRO",
+                        "type": "paragraph"
+                    },
+                    "text": "The aims of this study were to assess efficacy, safety, pharmacokinetics, patient experience, patient satisfaction, and potential cost savings following a switch from IV to SC vedolizumab treatment in patients with inflammatory bowel disease in a real\u2010world setting.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 6539,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "title_1"
+                    },
+                    "text": "METHODS",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 6547,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "title_2"
+                    },
+                    "text": "Study design and study population",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 6581,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "This was a prospective observational cohort study of a switch from maintenance IV to SC vedolizumab treatment in a population of adult IBD patients. The study was conducted at the Skane University Hospital, Sweden, with a 6\u2010month follow\u2010up period. Consecutive patients were approached regarding participation. Inclusion criteria comprised signed informed consent; diagnosis of CD, UC or IBD\u2010unclassified; and ongoing maintenance treatment with IV vedolizumab (previously received \u22653 doses of IV vedolizumab). Exclusion criteria comprised noticeable difficulties handling an SC injector pen, inability to give informed consent, or inability to comply with study procedures. The study was performed in accordance with the principles of the Declaration of Helsinki. Ethical permission was granted by the regional research ethics committee in Lund, Sweden (DNR 2018/761). All patients provided written informed consent to participation before study entry.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 7541,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "Patients were enrolled between December 2020 and June 2021. The study included a baseline visit, scheduled at the time\u2010point when the patient should have received the next dose of IV vedolizumab, and a follow\u2010up visit 6\u2009months after the switch. A subset of patients, that was the first to be enrolled, could be evaluated also after 12\u00a0months. Additional visits were scheduled on demand in case of a suspected disease flare or potential side effects. All patients were switched to a dose of 108\u2009mg vedolizumab SC every 2\u2009weeks regardless of previous dose or dosing interval on IV vedolizumab. All conventional IBD treatments were permitted during the study and changes in the treatment regimen were allowed if clinically indicated. Dose optimization of SC vedolizumab to 108\u2009mg weekly was done at the discretion of the treating physician based on a combination of clinical symptoms and biomarker levels. Any changes in treatment regimen throughout the study period were recorded.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 8533,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "Baseline data recorded included diagnosis (CD, UC or IBD\u2010unclassified), gender, age at diagnosis, age at inclusion, weight, height, smoking status, time on IV vedolizumab before the switch, IV vedolizumab dose and dosing interval at inclusion, previous and current IBD treatment, disease characteristics according to the Montreal classification, and disease activity at baseline.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 8915,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "title_2"
+                    },
+                    "text": "Study endpoints and definitions",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 8947,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "The primary endpoint was change in disease activity defined by faecal calprotectin levels at 6\u2009months after the switch to SC vedolizumab treatment. Faecal calprotectin is a sensitive and non\u2010subjective measure of disease activity that is not affected by placebo or nocebo effects. It reacts to an early increase in subclinical inflammatory activity and is expected to change earlier than clinical symptom levels in the event of a diminished therapeutic effect.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 9412,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "Secondary endpoints were [all refer to 6\u2009months of follow\u2010up unless otherwise indicated] (a) change in remission rates defined by a faecal calprotectin <150\u2009\u03bcg/g and clinical disease activity indices: for CD patient\u2010based Harvey Bradshaw Index (HBI) \u22644 or Patient\u2010Reported Outcomes (PRO)2\u2010CD \u226411 and for UC Simple Clinical Colitis Activity Index (SCCAI) \u22642 or PRO2\u2010UC\u00a0=\u00a00. PRO2 scores were applied in accordance with the STRIDE documents. Briefly, the PRO2\u2010CD is the sum of the daily soft or liquid stool frequency and abdominal pain (multiplied by the weighting factors 2 and 5, respectively) items from the Crohn\u2019s Disease Activity Index, whereas the PRO2\u2010UC is the simple sum of the stool frequency and rectal bleeding items from the Mayo score; (b) change in the laboratory biomarker plasma C\u2010reactive protein (CRP); (c) change in clinical disease activity defined by the patient\u2010based HBI for CD and the SCCAI for UC, as well as symptom levels according to the Patient\u2010Reported Outcomes (PRO)\u20102 criteria as described in the STRIDE documents; (d) subgroup analyses of patients that were dose optimised on IV vedolizumab, and patients with perianal CD, respectively; (e) subgroup analysis of patients that completed 12\u00a0months of follow\u2010up, including drug persistence (11 patients that had not completed 12\u00a0months of follow\u2010up but remained on the drug were censored), and evaluation of faecal calprotectin and plasma CRP levels. When all patients had completed the first 6\u2009months of follow\u2010up, the study was closed and thus not all patients completed 12\u00a0months of follow\u2010up; (f) adverse events and local injection reactions; (g) serum vedolizumab trough levels and relation to faecal calprotectin levels (patients categorised into quartiles based on serum vedolizumab trough levels and median faecal calprotectin levels calculated per quartile), and SC vedolizumab dose optimization rates; (h) patient experience of switching from IV to SC treatment, overall injection experience and patient satisfaction with various aspects of the injector pen [see below for details]; (i) health\u2010related quality\u2010of\u2010life using the Short Health Scale (SHS) which is a validated four\u2010item questionnaire (symptom burden, social function, disease\u2010related worry and general well\u2010being; each item scored 0\u20135 with an SHS composite score ranging from 0 to 20) and (j) annualised cost savings per patient with SC as compared to IV treatment.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 11896,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "Faecal calprotectin levels were analysed using an enzyme\u2010linked immunosorbent assay (ELISA; PhiCal, Calpro AS). Serum vedolizumab trough levels were analysed by a Clinical and Laboratory Standards Institute (CLSI) validated in\u2010house developed chemiluminescence ELISA at the Karolinska Institute (Stockholm, Sweden). Both methods are used in clinical routine care and the analyses were performed in clinical laboratories.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 12321,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "Adverse events that occurred after study entry considered related or of possible relation to SC vedolizumab treatment or switch were documented. Local injection reactions including discomfort, pain, burning sensation and erythema; and patient satisfaction with the injector pen, overall injection experience, the experience of switching from IV to SC treatment; were evaluated using structured questionnaires (see Table\u00a01 and Table\u00a0S1 for details on items, questions asked and response options). The questions and response options were adapted from previously published questionnaires used in similar studies. ",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 12934,
+                    "infons": {
+                        "file": "apt16927-tbl-0001.xml",
+                        "id": "apt16927-tbl-0001",
+                        "section_type": "TABLE",
+                        "type": "table_caption"
+                    },
+                    "text": "Incidence of adverse events and local injection reactions during study",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 13005,
+                    "infons": {
+                        "file": "apt16927-tbl-0001.xml",
+                        "id": "apt16927-tbl-0001",
+                        "section_type": "TABLE",
+                        "type": "table",
+                        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table frame=\"hsides\" rules=\"groups\"><col align=\"left\" span=\"1\"/><col align=\"center\" span=\"1\"/><col align=\"center\" span=\"1\"/><col align=\"center\" span=\"1\"/><thead valign=\"bottom\"><tr style=\"border-bottom:solid 1px #000000\"><th align=\"left\" valign=\"bottom\" rowspan=\"1\" colspan=\"1\"/><th align=\"center\" valign=\"bottom\" rowspan=\"1\" colspan=\"1\">All patients (IBD)</th><th align=\"center\" valign=\"bottom\" rowspan=\"1\" colspan=\"1\">Crohn\u2019s disease</th><th align=\"center\" valign=\"bottom\" rowspan=\"1\" colspan=\"1\">Ulcerative colitis</th></tr></thead><tbody valign=\"top\"><tr><td colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Local injection reactions (adapted from Dehoratius et al.),<sup>16</sup>\n<italic toggle=\"yes\">n</italic> (%)</td></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Discomfort</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">None</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">60 (72.3)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">35 (74.5)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">25 (69.4)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Mild</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">18 (21.7)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">10 (21.3)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">8 (22.2)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Moderate</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">4 (4.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (4.3)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (5.6)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Severe</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.8)</td></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Pain</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">None</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">51 (61.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">29 (61.7)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">22 (61.1)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Mild</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">22 (26.5)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">14 (29.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">8 (22.2)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Moderate</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">9 (10.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (6.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">6 (16.7)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Severe</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Burning sensation</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">None</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">40 (48.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">22 (46.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">18 (50.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Mild</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">35 (42.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">20 (42.6)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">15 (41.7)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Moderate</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">7 (8.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">4 (8.5)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (8.3)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Severe</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Erythema</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">None</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">57 (68.7)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">36 (76.6)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">21 (58.3)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Mild</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">16 (19.3)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">5 (10.6)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">11 (30.6)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Moderate</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">9 (10.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">6 (12.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (8.3)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Severe</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.8)</td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Other adverse events, <italic toggle=\"yes\">n</italic> (%)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Fatigue</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">8 (9.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">6 (12.5)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (4.9)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Headache</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (3.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Nausea</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (3.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (6.3)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Rash</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (3.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (4.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Arthralgia</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (2.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (4.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Clostridium difficile enteritis</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Early satiety</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Herpes labialis</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Hyperhidrosis</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Muscle weakness/faintness</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Nasal congestion</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Nasal ulceration</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Non\u2010productive cough</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Paresthesia</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Photosensitivity</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Pruritus</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Sleep disturbance</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Weight loss</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Xerostomia</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (1.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr></tbody></table>\n"
+                    },
+                    "text": "\tAll patients (IBD)\tCrohn\u2019s disease\tUlcerative colitis\t \tLocal injection reactions (adapted from Dehoratius et al.),16n (%)\t \tDiscomfort\t \tNone\t60 (72.3)\t35 (74.5)\t25 (69.4)\t \tMild\t18 (21.7)\t10 (21.3)\t8 (22.2)\t \tModerate\t4 (4.8)\t2 (4.3)\t2 (5.6)\t \tSevere\t1 (1.2)\t0 (0.0)\t1 (2.8)\t \tPain\t \tNone\t51 (61.4)\t29 (61.7)\t22 (61.1)\t \tMild\t22 (26.5)\t14 (29.8)\t8 (22.2)\t \tModerate\t9 (10.8)\t3 (6.4)\t6 (16.7)\t \tSevere\t1 (1.2)\t1 (2.1)\t0 (0.0)\t \tBurning sensation\t \tNone\t40 (48.2)\t22 (46.8)\t18 (50.0)\t \tMild\t35 (42.2)\t20 (42.6)\t15 (41.7)\t \tModerate\t7 (8.4)\t4 (8.5)\t3 (8.3)\t \tSevere\t1 (1.2)\t1 (2.1)\t0 (0.0)\t \tErythema\t \tNone\t57 (68.7)\t36 (76.6)\t21 (58.3)\t \tMild\t16 (19.3)\t5 (10.6)\t11 (30.6)\t \tModerate\t9 (10.8)\t6 (12.8)\t3 (8.3)\t \tSevere\t1 (1.2)\t0 (0.0)\t1 (2.8)\t \tOther adverse events, n (%)\t \tFatigue\t8 (9.0)\t6 (12.5)\t2 (4.9)\t \tHeadache\t3 (3.4)\t1 (2.1)\t1 (2.4)\t \tNausea\t3 (3.4)\t3 (6.3)\t0 (0.0)\t \tRash\t3 (3.4)\t2 (4.2)\t1 (2.4)\t \tArthralgia\t2 (2.2)\t2 (4.2)\t0 (0.0)\t \tClostridium difficile enteritis\t1 (1.1)\t1 (2.1)\t0 (0.0)\t \tEarly satiety\t1 (1.1)\t1 (2.1)\t0 (0.0)\t \tHerpes labialis\t1 (1.1)\t1 (2.1)\t0 (0.0)\t \tHyperhidrosis\t1 (1.1)\t1 (2.1)\t0 (0.0)\t \tMuscle weakness/faintness\t1 (1.1)\t0 (0.0)\t1 (2.4)\t \tNasal congestion\t1 (1.1)\t1 (2.1)\t0 (0.0)\t \tNasal ulceration\t1 (1.1)\t0 (0.0)\t1 (2.4)\t \tNon\u2010productive cough\t1 (1.1)\t1 (2.1)\t0 (0.0)\t \tParesthesia\t1 (1.1)\t0 (0.0)\t1 (2.4)\t \tPhotosensitivity\t1 (1.1)\t0 (0.0)\t1 (2.4)\t \tPruritus\t1 (1.1)\t1 (2.1)\t0 (0.0)\t \tSleep disturbance\t1 (1.1)\t0 (0.0)\t1 (2.4)\t \tWeight loss\t1 (1.1)\t1 (2.1)\t0 (0.0)\t \tXerostomia\t1 (1.1)\t0 (0.0)\t1 (2.4)\t \t",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 14557,
+                    "infons": {
+                        "file": "apt16927-tbl-0001.xml",
+                        "id": "apt16927-tbl-0001",
+                        "section_type": "TABLE",
+                        "type": "table_footnote"
+                    },
+                    "text": "Abbreviations: IBD, inflammatory bowel disease; n, number of patients.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 14628,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "Annualised treatment costs for IV treatment included the cost of an appointment with a nurse for drug administration and the cost of the drug. Treatment costs of SC treatment included annual drug costs only. The rates of patients that were dose escalated on IV and SC treatment, respectively, were accounted for in the calculation.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 14960,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "title_2"
+                    },
+                    "text": "Statistical analyses",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 14981,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "Data are presented as mean values with standard deviation (SD), or median values with interquartile range (IQR) as appropriate. Prism 9 for Mac OS X version 9.3.1 (GraphPad Software, Inc.) was used for statistical analyses and to graph data. The paired\u2010samples Student\u2019s t\u2010test alternatively the Wilcoxon matched\u2010pair signed\u2010rank test was used to compare baseline and follow\u2010up data for changes in laboratory biomarkers, disease activity indices and quality\u2010of\u2010life scores as appropriate depending on data scale type and data distribution. Missing data are shown by presenting numbers of data points in the figures. The complete case analysis method was applied, which together with an account of discontinued patients and data point numbers presented, was deemed to give the most adequate description of the cohort. The approach was verified by performing sensitivity analyses comprising best\u2010 and worst\u2010case scenario calculations (i.e. missing data equals relapse and remission, respectively), neither of which altered the statistical significance as compared with the complete case analysis. Regarding faecal calprotectin\u2010missing data, the missing\u2010at\u2010random assumption is plausible and the complete case analysis is thus adequate to apply. The Kruskal\u2013Wallis test was used to assess differences in faecal calprotectin levels between patient groups stratified by serum vedolizumab trough level quartiles during IV and SC vedolizumab treatment, respectively. The chi\u2010square test was used to compare remission rates between groups. Kaplan\u2013Meier survival analysis was used to calculate drug persistence. A statistically significant test result was defined by p\u2009<\u20090.05.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 16685,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_1"
+                    },
+                    "text": "RESULTS",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 16693,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "Eighty\u2010nine patients (48 patients with CD, 41 patients with UC and no patients with IBD\u2010unclassified) were included in the study. In total, 102 patients were approached regarding participation. Twelve patients declined participation, and one patient did not meet the inclusion criteria (Figure\u00a01). Baseline patient characteristics, clinical disease activity scores, laboratory biomarkers, concomitant IBD treatment and time on IV vedolizumab are presented in Table\u00a02. Details on previous IBD treatments and changes during follow\u2010up are presented in Table\u00a0S2. The median time on IV vedolizumab before the switch was 26.1\u2009months (IQR 9.5\u201352.9). The wide IQR illustrates heterogeneity in terms of previous exposure time to vedolizumab. At baseline, four patients received low dose oral prednisolone (1.25\u201310\u00a0mg daily), and three patients received oral budesonide. Prednisolone could be discontinued in one of these patients. Results refer to 6 months follow\u2010up, unless otherwise specified.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 17698,
+                    "infons": {
+                        "file": "APT-55-1389-g002.jpg",
+                        "id": "apt16927-fig-0001",
+                        "section_type": "FIG",
+                        "type": "fig_caption"
+                    },
+                    "text": "Flow chart of study design, enrollment of consecutive patients, patients discontinued and reasons for discontinuation during the primary observational follow\u2010up period of 6\u2009months. Abbreviations: EIM, extraintestinal manifestations; n, number of patients",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 17957,
+                    "infons": {
+                        "file": "apt16927-tbl-0002.xml",
+                        "id": "apt16927-tbl-0002",
+                        "section_type": "TABLE",
+                        "type": "table_caption"
+                    },
+                    "text": "Demographics and disease characteristics at baseline (study inclusion)",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 18028,
+                    "infons": {
+                        "file": "apt16927-tbl-0002.xml",
+                        "id": "apt16927-tbl-0002",
+                        "section_type": "TABLE",
+                        "type": "table",
+                        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table frame=\"hsides\" rules=\"groups\"><col align=\"left\" span=\"1\"/><col align=\"left\" span=\"1\"/><col align=\"left\" span=\"1\"/><col align=\"left\" span=\"1\"/><thead valign=\"bottom\"><tr style=\"border-bottom:solid 1px #000000\"><th align=\"left\" valign=\"bottom\" rowspan=\"1\" colspan=\"1\">Baseline demographics and disease characteristics</th><th align=\"left\" valign=\"bottom\" rowspan=\"1\" colspan=\"1\">All patients (IBD)</th><th align=\"left\" valign=\"bottom\" rowspan=\"1\" colspan=\"1\">Crohn\u2019s disease</th><th align=\"left\" valign=\"bottom\" rowspan=\"1\" colspan=\"1\">Ulcerative colitis</th></tr></thead><tbody valign=\"top\"><tr><td align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">IBD diagnosis, <italic toggle=\"yes\">n</italic> (%)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">89 (100)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">48 (53.9)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">41 (46.1)</td></tr><tr><td align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Age at baseline (years), Md (range)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">44 (20\u201382)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">46.5 (23\u201382)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">37 (20\u201382)</td></tr><tr><td align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Age at diagnosis (years), Md (range)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">24 (9\u201376)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">23.5 (9\u201374)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">26 (14\u201376)</td></tr><tr><td align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Height at baseline (cm), Mn (SD)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">174.2 (\u00b111.6)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">173.2 (\u00b111.5)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">175.5 (\u00b111\u20138)</td></tr><tr><td align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Weight at baseline (kg), Mn (SD)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">79.4 (\u00b116.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">77.7 (\u00b117.5)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">81.5 (\u00b114.4)</td></tr><tr><td align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Female:Male ratio, <italic toggle=\"yes\">n</italic> (%)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">43:46 (48.3:51.7)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">25:23 (52.1:47.9)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">18:23 (43.9:56.1)</td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Montreal classification, <italic toggle=\"yes\">n</italic> (%)</td></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Age at diagnosis</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">A1 (&lt;17\u2009years)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">10 (11.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">7 (14.6)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (7.3)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">A2 (17\u201340\u2009years)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">62 (69.7)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">36 (75)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">26 (63.4)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">A3 (&gt;40\u2009years)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">17 (19.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">5 (10.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">12 (29.3)</td></tr><tr><td style=\"padding-left:15%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Disease location (Crohn\u2019s disease)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">L1 (ileal\u2009\u00b1\u2009cecal disease)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">10 (20.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">L2 (colonic)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">12 (25)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">L3 (ileocolonic)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">19 (39.6)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">L3L4 (ileocolonic and upper gastrointestinal tract)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">7 (14.6)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Disease behaviour (Crohn\u2019s disease)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">B1 (uncomplicated)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">28 (58.3)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">B2 (structuring)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">14 (29.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">B3 (penetrating)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">B2B3 (stricturing, penetrating)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">5 (10.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">p (perianal)<xref rid=\"apt16927-note-0005\" ref-type=\"table-fn\">\n<sup>a</sup>\n</xref>\n</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">10 (20.9)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Disease extent (ulcerative colitis)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">E1 (proctitis)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">5 (12.2)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">E2 (left\u2010sided)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">15 (36.6)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">E3 (extensive/pancolitis)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">21 (51.2)</td></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Smoking status, <italic toggle=\"yes\">n</italic> (%)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Never</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">53 (59.6)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">29 (60.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">24 (58.5)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Previous</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">29 (32.6)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">13 (27.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">16 (39.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Active</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">7 (7.9)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">6 (12.5)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Baseline data</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Faecal calprotectin (\u03bcg/g), Median (IQR)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">39.0 (12.5\u2013135)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">64.0 (12.5\u2013238.5)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">12.5 (12.5\u201396.5)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Plasma CRP (mg/L), Median (IQR)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2.0 (2.0\u20132.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2.0 (2.0\u20132.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2.0 (2.0\u20132.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Serum vedolizumab trough levels (\u03bcg/ml), Median (IQR)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">8.1 (5.2\u201314.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">8.7 (4.9\u201314.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">7.9 (5.3\u201312.5)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Patient\u2010based Harvey Bradshaw Index, Median (IQR)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3.0 (1.0\u20135.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">PRO2\u2010CD, Median (IQR)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">5.0 (0.5\u201312.5)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Simple Clinical Colitis Activity Index, Median (IQR)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2.0 (1.0\u20133.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">PRO2\u2010UC, Median (IQR)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\"/><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0.0 (0.0\u20130.0)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Short Health Scale composite score, Mean (SD)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">4.7 (\u00b13.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">5.1 (\u00b13.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">4.2 (\u00b13.2)</td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">IBD treatment at baseline</td></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Conventional oral treatment, <italic toggle=\"yes\">n</italic> (%)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">5\u2010aminosalisylic acid</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">31 (34.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">9 (18.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">22 (53.7)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Azathioprine</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">11 (12.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (6.3)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">8 (19.5)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">6\u2010mercaptopurine</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (2.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (4.9)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Methotrexate</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (2.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (4.9)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Prednisolone</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">4 (4.5)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (4.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (4.9)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Budesonide</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (3.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (4.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Topical treatment, <italic toggle=\"yes\">n</italic> (%)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">5\u2010aminosalisylic acid</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (3.4)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">3 (7.3)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Corticosteroids<xref rid=\"apt16927-note-0006\" ref-type=\"table-fn\">\n<sup>b</sup>\n</xref>\n</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0.0)</td></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">Concomitant biologic treatment, <italic toggle=\"yes\">n</italic> (%)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Adalimumab</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (2.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr><tr><td align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Time on IV vedolizumab (months), Median (IQR)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">26.1 (9.5\u201352.9)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">26.1 (8.7\u201353.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">27.4 (10.8\u201351.5)</td></tr><tr><td style=\"padding-left:10%\" colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">IV vedolizumab dose</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">300\u2009mg, <italic toggle=\"yes\">n</italic> (%)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">87 (97.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">46 (95.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">41 (100)</td></tr><tr><td style=\"padding-left:15%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">600\u2009mg, <italic toggle=\"yes\">n</italic> (%)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (2.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (4.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">0 (0)</td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"top\" rowspan=\"1\">IV vedolizumab infusion interval, <italic toggle=\"yes\">n</italic> (%)</td></tr><tr><td style=\"padding-left:10%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">8\u2009weeks</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">71 (79.8)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">38 (79.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">33 (80.5)</td></tr><tr><td style=\"padding-left:10%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">4\u2009weeks</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">9 (10.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">2 (4.2)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">7 (17.1)</td></tr><tr><td style=\"padding-left:10%\" align=\"left\" valign=\"top\" rowspan=\"1\" colspan=\"1\">Other (5\u20137\u2009weeks)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">9 (10.1)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">8 (16.7)</td><td align=\"char\" char=\"(\" valign=\"top\" rowspan=\"1\" colspan=\"1\">1 (2.4)</td></tr></tbody></table>\n"
+                    },
+                    "text": "Baseline demographics and disease characteristics\tAll patients (IBD)\tCrohn\u2019s disease\tUlcerative colitis\t \tIBD diagnosis, n (%)\t89 (100)\t48 (53.9)\t41 (46.1)\t \tAge at baseline (years), Md (range)\t44 (20\u201382)\t46.5 (23\u201382)\t37 (20\u201382)\t \tAge at diagnosis (years), Md (range)\t24 (9\u201376)\t23.5 (9\u201374)\t26 (14\u201376)\t \tHeight at baseline (cm), Mn (SD)\t174.2 (\u00b111.6)\t173.2 (\u00b111.5)\t175.5 (\u00b111\u20138)\t \tWeight at baseline (kg), Mn (SD)\t79.4 (\u00b116.2)\t77.7 (\u00b117.5)\t81.5 (\u00b114.4)\t \tFemale:Male ratio, n (%)\t43:46 (48.3:51.7)\t25:23 (52.1:47.9)\t18:23 (43.9:56.1)\t \tMontreal classification, n (%)\t \tAge at diagnosis\t \tA1 (<17\u2009years)\t10 (11.2)\t7 (14.6)\t3 (7.3)\t \tA2 (17\u201340\u2009years)\t62 (69.7)\t36 (75)\t26 (63.4)\t \tA3 (>40\u2009years)\t17 (19.1)\t5 (10.4)\t12 (29.3)\t \tDisease location (Crohn\u2019s disease)\t \tL1 (ileal\u2009\u00b1\u2009cecal disease)\t\t10 (20.8)\t\t \tL2 (colonic)\t\t12 (25)\t\t \tL3 (ileocolonic)\t\t19 (39.6)\t\t \tL3L4 (ileocolonic and upper gastrointestinal tract)\t\t7 (14.6)\t\t \tDisease behaviour (Crohn\u2019s disease)\t \tB1 (uncomplicated)\t\t28 (58.3)\t\t \tB2 (structuring)\t\t14 (29.2)\t\t \tB3 (penetrating)\t\t1 (2.1)\t\t \tB2B3 (stricturing, penetrating)\t\t5 (10.4)\t\t \tp (perianal)a\t\t10 (20.9)\t\t \tDisease extent (ulcerative colitis)\t \tE1 (proctitis)\t\t\t5 (12.2)\t \tE2 (left\u2010sided)\t\t\t15 (36.6)\t \tE3 (extensive/pancolitis)\t\t\t21 (51.2)\t \tSmoking status, n (%)\t \tNever\t53 (59.6)\t29 (60.4)\t24 (58.5)\t \tPrevious\t29 (32.6)\t13 (27.1)\t16 (39.0)\t \tActive\t7 (7.9)\t6 (12.5)\t1 (2.4)\t \tBaseline data\t \tFaecal calprotectin (\u03bcg/g), Median (IQR)\t39.0 (12.5\u2013135)\t64.0 (12.5\u2013238.5)\t12.5 (12.5\u201396.5)\t \tPlasma CRP (mg/L), Median (IQR)\t2.0 (2.0\u20132.0)\t2.0 (2.0\u20132.0)\t2.0 (2.0\u20132.0)\t \tSerum vedolizumab trough levels (\u03bcg/ml), Median (IQR)\t8.1 (5.2\u201314.0)\t8.7 (4.9\u201314.0)\t7.9 (5.3\u201312.5)\t \tPatient\u2010based Harvey Bradshaw Index, Median (IQR)\t\t3.0 (1.0\u20135.8)\t\t \tPRO2\u2010CD, Median (IQR)\t\t5.0 (0.5\u201312.5)\t\t \tSimple Clinical Colitis Activity Index, Median (IQR)\t\t\t2.0 (1.0\u20133.0)\t \tPRO2\u2010UC, Median (IQR)\t\t\t0.0 (0.0\u20130.0)\t \tShort Health Scale composite score, Mean (SD)\t4.7 (\u00b13.1)\t5.1 (\u00b13.0)\t4.2 (\u00b13.2)\t \tIBD treatment at baseline\t \tConventional oral treatment, n (%)\t \t5\u2010aminosalisylic acid\t31 (34.8)\t9 (18.8)\t22 (53.7)\t \tAzathioprine\t11 (12.4)\t3 (6.3)\t8 (19.5)\t \t6\u2010mercaptopurine\t2 (2.2)\t0 (0.0)\t2 (4.9)\t \tMethotrexate\t2 (2.2)\t0 (0.0)\t2 (4.9)\t \tPrednisolone\t4 (4.5)\t2 (4.2)\t2 (4.9)\t \tBudesonide\t3 (3.4)\t2 (4.2)\t1 (2.4)\t \tTopical treatment, n (%)\t \t5\u2010aminosalisylic acid\t3 (3.4)\t0 (0.0)\t3 (7.3)\t \tCorticosteroidsb\t0 (0.0)\t0 (0.0)\t0 (0.0)\t \tConcomitant biologic treatment, n (%)\t \tAdalimumab\t2 (2.2)\t1 (2.1)\t1 (2.4)\t \tTime on IV vedolizumab (months), Median (IQR)\t26.1 (9.5\u201352.9)\t26.1 (8.7\u201353.1)\t27.4 (10.8\u201351.5)\t \tIV vedolizumab dose\t \t300\u2009mg, n (%)\t87 (97.8)\t46 (95.8)\t41 (100)\t \t600\u2009mg, n (%)\t2 (2.2)\t2 (4.2)\t0 (0)\t \tIV vedolizumab infusion interval, n (%)\t \t8\u2009weeks\t71 (79.8)\t38 (79.2)\t33 (80.5)\t \t4\u2009weeks\t9 (10.1)\t2 (4.2)\t7 (17.1)\t \tOther (5\u20137\u2009weeks)\t9 (10.1)\t8 (16.7)\t1 (2.4)\t \t",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 20998,
+                    "infons": {
+                        "file": "apt16927-tbl-0002.xml",
+                        "id": "apt16927-tbl-0002",
+                        "section_type": "TABLE",
+                        "type": "table_footnote"
+                    },
+                    "text": "Abbreviations: CRP, C\u2010reactive protein; IBD, inflammatory bowel disease; IQR, interquartile range; IV, intravenous; n, number of patients; PRO2\u2010CD, Crohn\u2019s Disease Activity Index\u2010based patient\u2010reported outcome for Crohn\u2019s disease; PRO2\u2010UC, Mayo\u2010based patient\u2010reported outcome for ulcerative colitis; SD, standard deviation.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 21340,
+                    "infons": {
+                        "file": "apt16927-tbl-0002.xml",
+                        "id": "apt16927-tbl-0002",
+                        "section_type": "TABLE",
+                        "type": "table_footnote"
+                    },
+                    "text": "May coexist with B1\u2010B3.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 21366,
+                    "infons": {
+                        "file": "apt16927-tbl-0002.xml",
+                        "id": "apt16927-tbl-0002",
+                        "section_type": "TABLE",
+                        "type": "table_footnote"
+                    },
+                    "text": "Prednisolone or budesonide.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 21394,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": "Changes in disease activity and remission rates 6\u2009months after the switch",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 21470,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "For the cohort as a whole and the subgroup of CD patients, significant decreases in faecal calprotectin median levels were observed following the switch, whereas no change was seen in UC patients (Figure\u00a02A). The remission rates as defined by faecal calprotectin remained stable for all three groups (Figure\u00a02B). A subgroup analysis of faecal calprotectin levels in patients with limited ileal CD showed a median of 145\u2009\u03bcg/g (IQR 48\u2013281) at baseline and 94\u2009\u03bcg/g (IQR 50.0\u2013175.5) at follow\u2010up. The corresponding values for the entire CD group were 64.0 (IQR 12.5\u2013238.5) \u03bcg/g and 49.0\u00a0\u03bcg/g (IQR 12.5\u2013161.8), respectively. Analyses of plasma CRP levels did not show any significant changes before compared with after switch for the cohort as a whole, nor in the CD and UC subgroups (data not shown).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 22288,
+                    "infons": {
+                        "file": "APT-55-1389-g007.jpg",
+                        "id": "apt16927-fig-0002",
+                        "section_type": "FIG",
+                        "type": "fig_caption"
+                    },
+                    "text": "Analysis of faecal calprotectin levels and remission rates defined by faecal calprotectin at baseline and 6\u2009months after the switch from IV to SC vedolizumab treatment. (A) Faecal calprotectin levels presented as median values with IQR. (B) Proportions of patients in remission as defined by a faecal calprotectin level of <150\u2009\u03bcg/g. Abbreviations: CD, Crohn\u2019s disease; IQR, interquartile range; IV, intravenous; M, months; SC, subcutaneous; UC, ulcerative colitis. *p\u2009<\u20090.05",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 22775,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "Clinical disease activity in patients with CD, as measured by average patient\u2010based HBI and PRO2\u2010CD scores, remained unchanged (Figure\u00a03A). Patients with UC displayed a statistically significant improvement in clinical symptoms according to the SCCAI although the median score remained unchanged, while the PRO2\u2010UC score did not show a significant change (Figure\u00a03C). There were no statistically significant changes in the proportions of patients displaying clinical remission, as defined by patient\u2010based HBI \u22644 or PRO2\u2010CD \u226411 for patients with CD, and by SCCAI \u22642 or PRO2\u2010UC\u00a0=\u00a00 for patients with UC (Figure\u00a03B,D).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 23415,
+                    "infons": {
+                        "file": "APT-55-1389-g008.jpg",
+                        "id": "apt16927-fig-0003",
+                        "section_type": "FIG",
+                        "type": "fig_caption"
+                    },
+                    "text": "Analysis of clinical disease activity index score levels and remission rates at baseline and 6\u2009months after the switch from IV to SC vedolizumab treatment. (A) Patient\u2010based HBI and PRO2\u2010CD scores for CD patients presented as median values with IQR. (B) Proportions of CD patients in remission as defined by a patient\u2010based HBI \u22644 or PRO2\u2010CD \u226411. (C) SCCAI and PRO2\u2010UC scores for UC patients presented as median values with IQR. (D) Proportions of UC patients in remission as defined by an SCCAI \u22642 or PRO2\u2010UC\u00a0=\u00a00. Abbreviations: CD, Crohn\u2019s disease; IQR, interquartile range; IV, intravenous; M, months; pHBI, patient\u2010based Harvey Bradshaw index; PRO2\u2010CD, Crohn\u2019s Disease Activity Index\u2010based patient\u2010reported outcomes\u20102; PRO2\u2010UC, Mayo\u2010based patient\u2010reported outcomes\u20102; SC, subcutaneous; SCCAI, simple clinical colitis activity index; UC, ulcerative colitis. *p\u2009<\u20090.05",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 24334,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "At baseline, 10 patients had a diagnosis of perianal CD. Three of these had active perianal disease at baseline, and at follow\u2010up, this number was two.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 24488,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": "Subgroup analyses of patients on optimised and standard dosing of IV vedolizumab",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 24569,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "Twenty patients were on optimised IV vedolizumab dosing at baseline. At follow\u2010up, there was no significant change in their faecal calprotectin levels, whereas the 69 patients that had been on standard IV vedolizumab dosing showed a small but significant decrease (Figure\u00a04A). Faecal calprotectin remission rates (Figure\u00a04A) and plasma CRP median values (data not shown) remained unchanged in both groups. Clinical remission rates remained stable at follow\u2010up (Figure\u00a04B,C) except for the PRO2\u2010UC remission rate for UC patients that had been on standard IV vedolizumab dosing, where a statistically significant improvement was seen (Figure\u00a04C).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 25224,
+                    "infons": {
+                        "file": "APT-55-1389-g003.jpg",
+                        "id": "apt16927-fig-0004",
+                        "section_type": "FIG",
+                        "type": "fig_caption"
+                    },
+                    "text": "Subgroup analysis of faecal calprotectin and clinical disease activity levels at baseline and 6\u2009months after the switch from IV to SC vedolizumab treatment for patients on standard versus optimised dosing of IV vedolizumab. (A) Faecal calprotectin levels presented as median values with IQR, and proportions of patients in remission as defined by a faecal calprotectin level of <150\u2009\u03bcg/g, respectively. (B) Proportions of CD patients in remission as defined by a patient\u2010based HBI \u22644 or PRO2\u2010CD \u226411. (C) Proportions of UC patients in remission as defined by an SCCAI \u22642 or PRO2\u2010UC\u00a0=\u00a00. Abbreviations: CD, Crohn\u2019s disease; IQR, interquartile range; IV, intravenous; M, months; pHBI, patient\u2010based Harvey Bradshaw index; PRO2\u2010CD, Crohn\u2019s disease activity index\u2010based patient\u2010reported outcomes\u20102; PRO2\u2010UC, Mayo\u2010based patient\u2010reported outcomes\u20102; SC, subcutaneous; SCCAI, simple clinical colitis activity index; UC, ulcerative colitis. *p\u2009<\u20090.05",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 26211,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": " SC vedolizumab dose optimization",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 26245,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "Dose optimization of SC vedolizumab to 108\u2009mg weekly was deemed indicated in 10.1% of patients (6 CD, 3 UC). Three of these (1 CD, 2 UC) belonged to the subgroup of 20 patients (22.5%) that had been on intensified IV vedolizumab dosing before the switch, whereas the other 17 (85%) remained on standard SC dosing. All patients with perianal CD (n\u00a0=\u00a010) remained on treatment, but 3/10 were dose optimised to SC vedolizumab 108\u2009mg weekly. No patient required hospitalisation or IV corticosteroid treatment due to disease worsening during the study.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 26799,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": "Drug persistence and biomarker levels at 12\u00a0months after the switch",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 26868,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "A subset of patients was evaluated at 12\u00a0months after the switch, in addition to the more comprehensive evaluation after the primary follow\u2010up period of 6\u2009months. Drug persistence at 6 and 12\u00a0months were 95.5% (85/89) and 88.5% (69/78), respectively, for the whole cohort (Figure\u00a05). Reasons for drug discontinuation (n\u00a0=\u00a09) were disease worsening in five patients, change in treatment regimen due to extraintestinal manifestations (present before the switch) in one patient, local injection reaction in one patient and adverse events in two patients (headache and repeated infections). There were no statistically significant changes in plasma CRP levels for the whole cohort (n\u00a0=\u00a050), CD (n\u00a0=\u00a027) or UC (n\u00a0=\u00a023); or in faecal calprotectin levels for the whole cohort (n\u00a0=\u00a020), CD (n\u00a0=\u00a010) or UC (n\u00a0=\u00a010), at 12\u00a0months (data not shown).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 27728,
+                    "infons": {
+                        "file": "APT-55-1389-g004.jpg",
+                        "id": "apt16927-fig-0005",
+                        "section_type": "FIG",
+                        "type": "fig_caption"
+                    },
+                    "text": "Kaplan\u2013Meier survival curve for drug persistence after the switch from IV to SC vedolizumab treatment. Events refer to treatment discontinuation. Censored points refer to patients that have not yet completed 12\u00a0months of follow\u2010up",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 27964,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": "Serum vedolizumab concentrations before and after the switch",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 28025,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "Median serum vedolizumab trough levels at steady state on IV treatment (i.e. at baseline) were 8.1\u00a0\u03bcg/ml (IQR 5.2\u201314\u2009\u03bcg/ml) for the whole cohort, 8.7\u00a0\u03bcg/ml (IQR 4.9\u201314.0\u00a0\u03bcg/ml) in CD patients, and 7.9\u00a0\u03bcg/ml (IQR 5.3\u201312.5\u00a0\u03bcg/ml) in UC patients. Median serum vedolizumab trough levels at steady state on SC treatment (i.e. at 6\u2009months follow\u2010up) were 19.0\u00a0\u03bcg/ml (IQR 13.0\u201323.0\u00a0\u03bcg/ml) for the whole cohort, 19.0\u00a0\u03bcg/ml (IQR 12.0\u201322.8\u00a0\u03bcg/ml) in CD patients, and 18.5\u00a0\u03bcg/ml (IQR 15.0\u201323.8\u00a0\u03bcg/ml) in UC patients. When patients were on IV treatment, we found significantly higher faecal calprotectin levels, primarily among CD patients, in the quartiles with the lowest serum vedolizumab trough levels compared to those with higher serum vedolizumab trough levels (Figure\u00a06A). This relationship was not observed after patients had been on SC treatment for 6\u00a0months (Figure\u00a06B).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 28939,
+                    "infons": {
+                        "file": "APT-55-1389-g006.jpg",
+                        "id": "apt16927-fig-0006",
+                        "section_type": "FIG",
+                        "type": "fig_caption"
+                    },
+                    "text": "Associations between serum vedolizumab trough concentration quartiles (Q1 lowest; Q4 highest) and faecal calprotectin levels during IV and SC treatment for the entire cohort (all patients), and for the subgroups of CD and UC patients. (A) IV vedolizumab treatment. (B) SC vedolizumab treatment. Data are presented as median values with IQR (box), 1.5\u2009\u00d7\u2009IQR (whiskers) and outliers. Abbreviations: CD, Crohn\u2019s disease; IQR, interquartile range; IV, intravenous; Q, quartile; SC, subcutaneous; UC, ulcerative colitis. *p\u2009<\u20090.05",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 29476,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": "Quality\u2010of\u2010life and patient satisfaction regarding the switch and injector pen",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 29559,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "We observed no differences in the SHS composite score or separate SHS items (Figure\u00a0S1). Patient satisfaction with the injector pen (all eight categories; see Table\u00a0S1 for details) was high with 94.1%\u2013100% of patients responding \u201cstrongly agree\u201d, \u201cagree\u201d or \u201cagree to some extent\u201d (Figure\u00a07A). Overall satisfaction with the injection experience was generally high with 96.4% of the patients reporting being satisfied or very satisfied (Figure\u00a07B). Generally, patients favoured SC administration over IV (Figure\u00a07C). Only 2.4\u20139.4% of patients reported a slight preference for IV treatment over SC. Conversely, 55.3% of patients experienced SC treatment as slightly or clearly more effective, and 85.9% slightly or clearly more convenient (Figure\u00a07C). Regarding overall feeling of security, no preference was the most frequent response (58.8%) and a slight preference for IV treatment was reported by 9.4% of patients (Figure\u00a07C). Taking all aspects that follow with the given route of administration into account, 83.3% of patients reported a preference for SC over IV treatment, whereas the opposite was true for 2.4% of patients (Figure\u00a07C).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 30726,
+                    "infons": {
+                        "file": "APT-55-1389-g005.jpg",
+                        "id": "apt16927-fig-0007",
+                        "section_type": "FIG",
+                        "type": "fig_caption"
+                    },
+                    "text": "Patient satisfaction regarding various aspects of handling the vedolizumab injector pen, overall satisfaction with the injection experience, and patient preference comparing various aspects of IV versus SC vedolizumab treatment, based on questionnaires (Table\u00a0S1). Data are presented for all patients (entire IBD cohort) collectively. (A) Aspects of handling the vedolizumab injector pen are perceived as easy or difficult to varying degrees. Data are presented as proportions of patients reporting a specific response option ranging from easy to difficult. (B) Satisfaction with the injection experience presented as proportions of patients reporting a specific response option ranging from very satisfied to very dissatisfied. (C) Patient preference comparing IV versus SC treatment in terms of patient\u2010perceived therapeutic effect, overall convenience, overall feeling of security and patient preference overall. Data are presented as proportions of patients reporting a specific response option ranging from clear preference for SC treatment to clear preference for IV treatment, with slight preference or no preference as response options in\u2010between. Abbreviations: IBD, inflammatory bowel disease; IV, intravenous, SC, subcutaneous",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 31969,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": "Adverse events experienced on IV and SC vedolizumab treatment",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 32031,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "All reported adverse events are presented in Table\u00a01. Adverse events, excluding local injection reactions, occurred in 15 (31.3%) of CD patients and 10 (24.4%) of UC patients. The corresponding rates for IV treatment were 27.1% and 22.0%, respectively. Some patients reported several side effects. The most common complaint was fatigue, followed by headache, nausea and rash. No serious adverse events were reported. Data on local skin reactions including discomfort, pain, burning sensation and erythema are presented in Table\u00a01. The vast majority experienced none or only mild local injection reactions (88.0%\u201394.0% of patients, depending on the type of local injection reaction). Similar numbers were seen among CD and UC patients. Severe local symptoms were reported in only 1.2% of patients for the various subcategories. There was one case of drug discontinuation due to local injection reactions at 12\u00a0months of follow\u2010up, but none during the first 6\u2009months.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 33006,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": "Annualised costs related to SC as compared with IV vedolizumab treatment",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 33079,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "In Sweden, the current fee for a visit to a registered nurse for administration of an IV infusion is approximately \u20ac290; the annual drug cost for IV vedolizumab (standard dosing) is approximately \u20ac13,700; and the annual drug cost for SC vedolizumab (standard dosing) is approximately \u20ac13,800. During IV vedolizumab treatment, 22.5% of patients required dose optimization (one infusion of 300\u2009mg every 4\u20137\u2009weeks or 600\u2009mg every 8\u2009weeks), and during SC vedolizumab treatment 10.1% were dose optimised to 108\u2009mg of SC vedolizumab once weekly. Taking these factors into account, the annualised cost of maintenance treatment with SC vedolizumab was 15.0% lower than for maintenance treatment with IV vedolizumab.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 33805,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "title_1"
+                    },
+                    "text": "DISCUSSION",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 33816,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "The phase III VISIBLE studies investigated de novo treatment with SC vedolizumab. However, studies on switching patients that are on established maintenance treatment with IV vedolizumab to SC treatment are largely lacking. We report on a switch from IV to SC vedolizumab maintenance treatment in 89 adult IBD patients in a real\u2010world setting with a follow\u2010up time of 6\u2009months and for a subgroup 12\u00a0months. Our results show that the levels of therapeutic efficacy, quality\u2010of\u2010life and adverse events were highly similar before as compared to after the switch with a high degree of drug persistence, and that the patients were in general very satisfied with being transferred to self\u2010administered SC treatment.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 34539,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "Faecal calprotectin levels showed a statistically significant decrease for the cohort as a whole and for CD patients, while levels remained unchanged for UC patients. However, absolute levels were low and the observed decreases may not be clinically relevant. On the other hand, subclinical changes in faecal calprotectin levels are considered to precede changes in clinical disease activity and decreases of this type may further stabilise a state of clinical remission. Drug persistence was high with 95.5% of patients remaining on treatment after 6\u2009months, and 88.5% after 12\u00a0months. These numbers are in line with those reported for IV vedolizumab treatment, ranging from 60\u201395% after 12\u00a0months. ",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 35246,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "Our evaluation of the outcome of the switch included thorough investigations of clinical disease activity, applying two activity indices for CD (patient\u2010based HBI and PRO2\u2010CD) and two for UC (SCCAI and PRO2\u2010UC), analysed by both median values and by proportions of patients in remission. All of these analyses corroborated the faecal calprotectin data, showing either unchanged disease activity levels after the switch in both CD and UC patients, or as in the case of SCCAI levels, a statistically significant improvement. For the 10 patients with perianal CD, the patient\u2010based HBI questionnaire was of particular interest since it included separate questions regarding active perianal fistula, perianal abscesses and anal fissures. At baseline, 3/10 had an active perianal disease but after the switch the number was 2/10 at follow\u2010up. From the literature, it seems that vedolizumab may have some therapeutic effect on perianal CD in a subset of patients, but that the effectiveness overall is moderate. Our results do not contradict this view, but one should be cautious regarding conclusions given the low number of patients with perianal CD.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 36403,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "We also performed a subgroup analysis of patients with limited ileal CD, which showed measurable levels of faecal calprotectin with a numerical decrease after the switch. This confirms that faecal calprotectin was an adequate readout parameter also for this subset of CD patients, which has been debated but several recent studies have shown that faecal calprotectin is a sensitive measure of disease activity also in cases with limited ileal disease. ",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 36856,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "The SC dose of 108\u2009mg every 2\u2009weeks was chosen by the manufacturer with the intent to provide patients with similar average serum concentrations at steady state, as the IV dose of 300\u2009mg every 8\u2009weeks. However, it is unclear whether average serum concentrations directly translate into levels of therapeutic efficacy. In addition, it is possible that the altered pharmacokinetics that comes with SC administration affect the various mechanisms of action of vedolizumab (i.e. those suggested to take place in the circulation compared to within tissues) in different ways. Although the VISIBLE studies gave us an indication as to what serum levels are common with SC vedolizumab at standard dose, the studies did not address which levels are therapeutically optimal. In our study, serum vedolizumab trough concentrations at steady state were approximately twice as high during SC as compared with IV treatment. These findings are in line with the VISIBLE studies and the study by Ventress et al. Our results suggest an inverse relationship between serum vedolizumab trough levels and faecal calprotectin levels with vedolizumab given IV. However, after 6\u2009months with SC vedolizumab at standard dose, this correlation was not seen. This change was primarily observed in CD patients, which also displayed a statistically significant decrease in faecal calprotectin levels after having switched to SC treatment. Our subgroup analyses of patients that had been on optimised IV dosing did not show any signs of disease worsening in terms of remission rates, clinical index scores, biomarker levels or drug persistence, after the switch to standard SC dosing. Interestingly, patients on standard IV dosing showed a statistically significant improvement in faecal calprotectin levels on SC treatment, while other outcome measures remained unchanged. Taken together, these results suggest that some patients were underdosed when being on standard IV dosing and that they were more adequately dosed (or potentially overdosed at the group level) on SC standard dosing.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 38923,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "Ventress et al. suggested that the first dose of SC vedolizumab should be given 28\u2009days after the last IV dose. This was based on the assumption that the serum drug concentrations observed in the VISIBLE studies are therapeutically the most appropriate (although this has not been studied) and that the drug levels should be kept at or above this limit. With IV vedolizumab, patients' drug levels are below this limit during the entire second half of the 8\u2010week dosing interval. There is no evidence that the limited time that serum concentrations are below the SC serum steady\u2010state levels in the VISIBLE studies increases the risk of relapse, nor for dose\u2010dependent toxicity, if the first SC dose is given in close proximity to the last IV dose. Thus, with current knowledge and with support from our data we would argue that the first SC dose may be administered when the next IV dose would have been given, or earlier due to potential practical aspects.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 39889,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "In our cohort, the rates of adverse events were similar before and after the switch, and no serious adverse events were reported. Some of the reported symptoms, including fatigue, headache, nausea and arthralgia, were transient and lasted 1\u20132\u2009days after injection. The time to the maximum serum concentration after administration of vedolizumab subcutaneously is on average 7\u2009days with a variation between 3\u201314\u2009days. Such transient reactions are thus not likely to be an effect of the drug per se but more likely representing nonpharmacological potentially immune\u2010mediated adverse effects, alternatively representing a nocebo effect. Investigating local injection reactions, moderate discomfort, pain or burning sensations were reported by 5%\u201311% of patients, and corresponding severe reactions by 1% of the patients. Conversely, 88%\u201394% reported none or only mild local injection reactions. These results are in line with the VISIBLE studies as well as with data for other SC biologics. SC vedolizumab contains citrate which has been pointed out to be causing pain, but studies that have addressed this issue underscore that citrate is merely one of several factors that may affect potential pain sensation at SC injection and that some of the studies attributing pain at the injection site to citrate are difficult to interpret since citrate was one of several factors modified. Other factors that may be equally important in this context are other buffers commonly used such as phosphate and histidine, the buffer concentration, injected volume, solution temperature, pH, osmolality, needle gauge, injector device, injection speed, injection technique and low body weight. ",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 41582,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "We also investigated various aspects of the patients' experience with the injector pen and the switch from IV to SC treatment. Overall patients found the injector pen to be user\u2010friendly and they were very satisfied with switching to SC treatment, which was reflected in all aspects explored. However, this dataset can also be used to illuminate the group of patients, albeit small (2%\u20139%), that preferred IV infusions. Thus, SC administration may not be the best option for all patients. One caveat with SC treatment is that it may be more difficult to ensure patient compliance. Hence, for patients where compliance historically has been a problem or if risk factors for non\u2010adherence are present, IV therapy may be advisable. ",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 42318,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "Evaluations of health\u2010related quality\u2010of\u2010life using the SHS instrument showed no statistically significant differences after the switch, but there was a slight numerical trend towards improved overall quality\u2010of\u2010life as well as better symptom\u2010related and social function\u2010related quality\u2010of\u2010life in patients with CD. These findings underscore the high level of satisfaction regarding the switch.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 42731,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "The annualised cost of SC vedolizumab maintenance treatment was calculated to be 15.0% lower than for IV maintenance treatment. Another structural benefit was that nurse resources were liberated for other work tasks. This was especially valuable in times of a pandemic when the number of nurses at the outpatient clinic had to be diminished to enable staffing of Covid\u201019 wards. In addition, avoiding hospital visits in this context was desirable to prevent transmission of the virus.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 43218,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "This study had some important limitations. Firstly, there was no control group that was continued on IV treatment. Secondly, patients were not evaluated endoscopically. Lastly, anti\u2010drug antibodies were not measured.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 43437,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "In conclusion, this study shows that a switch from IV to SC vedolizumab maintenance treatment can be done with maintained efficacy, safety and tolerability, including in patients on optimised IV vedolizumab dosing. In addition, patient satisfaction regarding the switch was overall high, although for a small proportion of patients IV treatment may be advisable. The appropriate window for serum vedolizumab concentration to target for combined optimal efficacy, patient convenience and cost\u2010effectiveness during SC maintenance treatment, is still unclear and should be addressed in future studies.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 44038,
+                    "infons": {
+                        "section_type": "AUTH_CONT",
+                        "type": "title_1"
+                    },
+                    "text": "AUTHOR CONTRIBUTIONS",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 44059,
+                    "infons": {
+                        "section_type": "AUTH_CONT",
+                        "type": "paragraph"
+                    },
+                    "text": "VB contributed with acquisition, analysis and interpretation of data, as well as study design and writing the manuscript. JH was involved in study design, data analysis and data interpretation. DK was involved in study design and data interpretation. JM contributed with the detailed planning of the study including conceptualization and design, analysis and interpretation of data. All authors contributed intellectually to the work carried out within the framework of this study, critically revised the manuscript and approved the final version.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 44607,
+                    "infons": {
+                        "section_type": "AUTH_CONT",
+                        "type": "title_1"
+                    },
+                    "text": "AUTHORSHIP",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 44618,
+                    "infons": {
+                        "section_type": "AUTH_CONT",
+                        "type": "paragraph"
+                    },
+                    "text": " Guarantor of the article: Jan Marsal.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 44657,
+                    "infons": {
+                        "section_type": "SUPPL",
+                        "type": "title_1"
+                    },
+                    "text": "Supporting information",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 44680,
+                    "infons": {
+                        "section_type": "SUPPL",
+                        "type": "title_1"
+                    },
+                    "text": "DATA AVAILABILITY STATEMENT",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 44708,
+                    "infons": {
+                        "section_type": "SUPPL",
+                        "type": "paragraph"
+                    },
+                    "text": "The data underlying this article will be shared on reasonable request to the corresponding author.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 44807,
+                    "infons": {
+                        "section_type": "REF",
+                        "type": "title"
+                    },
+                    "text": "REFERENCES",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 44818,
+                    "infons": {
+                        "elocation-id": "612830",
+                        "pub-id_pmid": "33614645",
+                        "section_type": "REF",
+                        "source": "Front Cell Dev Biol",
+                        "type": "ref",
+                        "volume": "9",
+                        "year": "2021"
+                    },
+                    "text": "Vedolizumab: potential mechanisms of action for reducing pathological inflammation in inflammatory bowel diseases",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 44932,
+                    "infons": {
+                        "fpage": "1437",
+                        "issue": "12",
+                        "lpage": "44",
+                        "pub-id_pmid": "27252400",
+                        "section_type": "REF",
+                        "source": "J Crohns Colitis",
+                        "type": "ref",
+                        "volume": "10",
+                        "year": "2016"
+                    },
+                    "text": "An overview of the mechanism of action of the monoclonal antibody vedolizumab",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 45010,
+                    "infons": {
+                        "fpage": "25",
+                        "issue": "1",
+                        "lpage": "39",
+                        "pub-id_pmid": "29730603",
+                        "section_type": "REF",
+                        "source": "Gut",
+                        "type": "ref",
+                        "volume": "68",
+                        "year": "2019"
+                    },
+                    "text": "Vedolizumab is associated with changes in innate rather than adaptive immunity in patients with inflammatory bowel disease",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 45133,
+                    "infons": {
+                        "fpage": "562",
+                        "issue": "3",
+                        "lpage": "572 e512",
+                        "pub-id_pmid": "31470005",
+                        "section_type": "REF",
+                        "source": "Gastroenterology",
+                        "type": "ref",
+                        "volume": "158",
+                        "year": "2020"
+                    },
+                    "text": "Efficacy and safety of vedolizumab subcutaneous formulation in a randomized trial of patients with ulcerative colitis",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 45251,
+                    "infons": {
+                        "fpage": "27",
+                        "issue": "1",
+                        "lpage": "38",
+                        "pub-id_pmid": "34402887",
+                        "section_type": "REF",
+                        "source": "J Crohns Colitis",
+                        "type": "ref",
+                        "volume": "16",
+                        "year": "2022"
+                    },
+                    "text": "Efficacy and safety of subcutaneous vedolizumab in patients with moderately to severely active Crohn\u2019s disease: results from the VISIBLE 2 randomised trial",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 45409,
+                    "infons": {
+                        "fpage": "jjab224",
+                        "section_type": "REF",
+                        "source": "J Crohns Colitis",
+                        "type": "ref",
+                        "year": "2021"
+                    },
+                    "text": "Transitioning from intRavenous to subcutAneous VEdolizumab in patients with infLammatory bowEl diSeaSe (TRAVELESS)",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 45524,
+                    "infons": {
+                        "fpage": "528",
+                        "issue": "5",
+                        "lpage": "37",
+                        "pub-id_pmid": "22356594",
+                        "section_type": "REF",
+                        "source": "Scand J Gastroenterol",
+                        "type": "ref",
+                        "volume": "47",
+                        "year": "2012"
+                    },
+                    "text": "Surrogate markers and clinical indices, alone or combined, as indicators for endoscopic remission in anti\u2010TNF\u2010treated luminal Crohn\u2019s disease",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 45672,
+                    "infons": {
+                        "fpage": "514",
+                        "issue": "8167",
+                        "pub-id_pmid": "6102236",
+                        "section_type": "REF",
+                        "source": "Lancet",
+                        "type": "ref",
+                        "volume": "1",
+                        "year": "1980"
+                    },
+                    "text": "A simple index of Crohn\u2019s\u2010disease activity",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 45719,
+                    "infons": {
+                        "fpage": "1570",
+                        "issue": "5",
+                        "lpage": "83",
+                        "pub-id_pmid": "33359090",
+                        "section_type": "REF",
+                        "source": "Gastroenterology",
+                        "type": "ref",
+                        "volume": "160",
+                        "year": "2021"
+                    },
+                    "text": "STRIDE\u2010II: an update on the selecting therapeutic targets in inflammatory bowel disease (STRIDE) initiative of the International Organization for the Study of IBD (IOIBD): determining therapeutic goals for treat\u2010to\u2010target strategies in IBD",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 45965,
+                    "infons": {
+                        "fpage": "29",
+                        "issue": "1",
+                        "lpage": "32",
+                        "pub-id_pmid": "9771402",
+                        "section_type": "REF",
+                        "source": "Gut",
+                        "type": "ref",
+                        "volume": "43",
+                        "year": "1998"
+                    },
+                    "text": "A simple clinical colitis activity index",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 46006,
+                    "infons": {
+                        "fpage": "77",
+                        "issue": "1",
+                        "lpage": "86",
+                        "pub-id_pmid": "25348809",
+                        "section_type": "REF",
+                        "source": "Aliment Pharmacol Ther",
+                        "type": "ref",
+                        "volume": "41",
+                        "year": "2015"
+                    },
+                    "text": "A retrospective analysis: the development of patient reported outcome measures for the assessment of Crohn\u2019s disease activity",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 46134,
+                    "infons": {
+                        "fpage": "1200",
+                        "issue": "10",
+                        "lpage": "10",
+                        "pub-id_pmid": "26388424",
+                        "section_type": "REF",
+                        "source": "Aliment Pharmacol Ther",
+                        "type": "ref",
+                        "volume": "42",
+                        "year": "2015"
+                    },
+                    "text": "Development of interim patient\u2010reported outcome measures for the assessment of ulcerative colitis disease activity in clinical trials",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 46270,
+                    "infons": {
+                        "fpage": "1196",
+                        "issue": "10",
+                        "lpage": "203",
+                        "pub-id_pmid": "16990205",
+                        "section_type": "REF",
+                        "source": "Scand J Gastroenterol",
+                        "type": "ref",
+                        "volume": "41",
+                        "year": "2006"
+                    },
+                    "text": "The short health scale: a valid measure of subjective health in ulcerative colitis",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 46353,
+                    "infons": {
+                        "fpage": "47",
+                        "issue": "1",
+                        "lpage": "52",
+                        "pub-id_pmid": "17828783",
+                        "section_type": "REF",
+                        "source": "Inflamm Bowel Dis",
+                        "type": "ref",
+                        "volume": "14",
+                        "year": "2008"
+                    },
+                    "text": "Short health scale: a valid, reliable, and responsive instrument for subjective health assessment in Crohn\u2019s disease",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 46472,
+                    "infons": {
+                        "fpage": "361",
+                        "lpage": "9",
+                        "pub-id_pmid": "27785115",
+                        "section_type": "REF",
+                        "source": "Med Devices (Auckl)",
+                        "type": "ref",
+                        "volume": "9",
+                        "year": "2016"
+                    },
+                    "text": "Usability of a novel disposable autoinjector device for ixekizumab: results from a qualitative study and an open\u2010label clinical trial, including patient\u2010reported experience",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 46649,
+                    "infons": {
+                        "fpage": "361",
+                        "issue": "3",
+                        "lpage": "9",
+                        "pub-id_pmid": "29427176",
+                        "section_type": "REF",
+                        "source": "Patient",
+                        "type": "ref",
+                        "volume": "11",
+                        "year": "2018"
+                    },
+                    "text": "Satisfaction with subcutaneous golimumab and its auto\u2010injector among rheumatoid arthritis patients with inadequate response to adalimumab or etanercept",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 46803,
+                    "infons": {
+                        "fpage": "1413",
+                        "lpage": "24",
+                        "pub-id_pmid": "30122906",
+                        "section_type": "REF",
+                        "source": "Patient Prefer Adherence",
+                        "type": "ref",
+                        "volume": "12",
+                        "year": "2018"
+                    },
+                    "text": "Patients' and nurses' preferences for autoinjectors for rheumatoid arthritis: results of a European survey",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 46910,
+                    "infons": {
+                        "fpage": "2001",
+                        "issue": "7",
+                        "lpage": "8",
+                        "pub-id_pmid": "18534049",
+                        "section_type": "REF",
+                        "source": "Curr Med Res Opin",
+                        "type": "ref",
+                        "volume": "24",
+                        "year": "2008"
+                    },
+                    "text": "Analytical approaches to reporting long\u2010term clinical trial data",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 46977,
+                    "infons": {
+                        "fpage": "92",
+                        "pub-id_pmid": "23855337",
+                        "section_type": "REF",
+                        "source": "BMC Med Res Methodol",
+                        "type": "ref",
+                        "volume": "13",
+                        "year": "2013"
+                    },
+                    "text": "A tutorial on sensitivity analyses in clinical trials: the what, why, when and how",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 47060,
+                    "infons": {
+                        "fpage": "1317",
+                        "issue": "5",
+                        "lpage": "26",
+                        "pub-id_pmid": "33959262",
+                        "section_type": "REF",
+                        "source": "Clin Kidney J",
+                        "type": "ref",
+                        "volume": "14",
+                        "year": "2021"
+                    },
+                    "text": "Pharmacoepidemiology for nephrologists (part 2): potential biases and how to overcome them",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 47151,
+                    "infons": {
+                        "fpage": "2111",
+                        "issue": "10",
+                        "lpage": "7",
+                        "pub-id_pmid": "23883959",
+                        "section_type": "REF",
+                        "source": "Inflamm Bowel Dis",
+                        "type": "ref",
+                        "volume": "19",
+                        "year": "2013"
+                    },
+                    "text": "Consecutive fecal calprotectin measurements to predict relapse in patients with ulcerative colitis receiving infliximab maintenance therapy",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 47291,
+                    "infons": {
+                        "fpage": "1894",
+                        "issue": "10",
+                        "lpage": "9",
+                        "pub-id_pmid": "22238138",
+                        "section_type": "REF",
+                        "source": "Inflamm Bowel Dis",
+                        "type": "ref",
+                        "volume": "18",
+                        "year": "2012"
+                    },
+                    "text": "Fecal calprotectin in predicting relapse of inflammatory bowel diseases: a meta\u2010analysis of prospective studies",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 47405,
+                    "infons": {
+                        "fpage": "33",
+                        "issue": "1",
+                        "lpage": "40",
+                        "pub-id_pmid": "25052347",
+                        "section_type": "REF",
+                        "source": "J Crohns Colitis",
+                        "type": "ref",
+                        "volume": "9",
+                        "year": "2015"
+                    },
+                    "text": "Does fecal calprotectin predict short\u2010term relapse after stopping TNFalpha\u2010blocking agents in inflammatory bowel disease patients in deep remission?",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 47558,
+                    "infons": {
+                        "fpage": "15",
+                        "issue": "1",
+                        "lpage": "22",
+                        "pub-id_pmid": "10889150",
+                        "section_type": "REF",
+                        "source": "Gastroenterology",
+                        "type": "ref",
+                        "volume": "119",
+                        "year": "2000"
+                    },
+                    "text": "Surrogate markers of intestinal inflammation are predictive of relapse in patients with inflammatory bowel disease",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 47673,
+                    "infons": {
+                        "fpage": "722",
+                        "issue": "6\u20137",
+                        "lpage": "9",
+                        "pub-id_pmid": "28362144",
+                        "section_type": "REF",
+                        "source": "Scand J Gastroenterol",
+                        "type": "ref",
+                        "volume": "52",
+                        "year": "2017"
+                    },
+                    "text": "Long\u2010term effectiveness of vedolizumab in inflammatory bowel disease: a national study based on the Swedish National Quality Registry for inflammatory bowel disease (SWIBREG)",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 47850,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "15",
+                        "section_type": "REF",
+                        "source": "Therap Adv Gastroenterol",
+                        "type": "ref",
+                        "volume": "14",
+                        "year": "2021"
+                    },
+                    "text": "Real\u2010world effectiveness of vedolizumab in inflammatory bowel disease: week 52 results from the Swedish prospective multicentre SVEAH study",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 47992,
+                    "infons": {
+                        "fpage": "2046",
+                        "issue": "7",
+                        "lpage": "53",
+                        "pub-id_pmid": "31813132",
+                        "section_type": "REF",
+                        "source": "Dig Dis Sci",
+                        "type": "ref",
+                        "volume": "65",
+                        "year": "2020"
+                    },
+                    "text": "Low rate of drug discontinuation, frequent need for dose adjustment, and no association with development of new arthralgia in patients treated with vedolizumab: results from a tertiary referral IBD center",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 48197,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "14",
+                        "pub-id_pmid": "35135074",
+                        "section_type": "REF",
+                        "source": "Intest Res",
+                        "type": "ref",
+                        "year": "2022"
+                    },
+                    "text": "Vedolizumab for perianal fistulizing Crohn\u2019s disease: systematic review and meta\u2010analysis",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 48291,
+                    "infons": {
+                        "fpage": "719",
+                        "issue": "7",
+                        "lpage": "27",
+                        "pub-id_pmid": "32080886",
+                        "section_type": "REF",
+                        "source": "Aliment Pharmacol Ther",
+                        "type": "ref",
+                        "volume": "51",
+                        "year": "2020"
+                    },
+                    "text": "Vedolizumab for perianal Crohn\u2019s disease: a multicentre cohort study in 151 patients",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 48378,
+                    "infons": {
+                        "fpage": "621",
+                        "issue": "5",
+                        "lpage": "6",
+                        "pub-id_pmid": "29471381",
+                        "section_type": "REF",
+                        "source": "J Crohns Colitis",
+                        "type": "ref",
+                        "volume": "12",
+                        "year": "2018"
+                    },
+                    "text": "Efficacy of vedolizumab in Fistulising Crohn\u2019s disease: exploratory analyses of data from GEMINI 2",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 48479,
+                    "infons": {
+                        "section_type": "REF",
+                        "source": "Clin Gastroenterol Hepatol",
+                        "type": "ref",
+                        "year": "2021"
+                    },
+                    "text": "Efficacy and safety of 2 vedolizumab intravenous regimens for perianal fistulizing Crohn\u2019s disease: ENTERPRISE study",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 48598,
+                    "infons": {
+                        "fpage": "1008",
+                        "issue": "7",
+                        "lpage": "16",
+                        "pub-id_pmid": "33107563",
+                        "section_type": "REF",
+                        "source": "Inflamm Bowel Dis",
+                        "type": "ref",
+                        "volume": "27",
+                        "year": "2021"
+                    },
+                    "text": "Fecal calprotectin is highly effective to detect endoscopic ulcerations in Crohn\u2019s disease regardless of disease location",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 48722,
+                    "infons": {
+                        "fpage": "1984",
+                        "issue": "12",
+                        "lpage": "9",
+                        "pub-id_pmid": "29889986",
+                        "section_type": "REF",
+                        "source": "J Gastroenterol Hepatol",
+                        "type": "ref",
+                        "volume": "33",
+                        "year": "2018"
+                    },
+                    "text": "Prediction of disease activity of Crohn\u2019s disease through fecal calprotectin evaluated by balloon\u2010assisted endoscopy",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 48843,
+                    "infons": {
+                        "fpage": "732",
+                        "issue": "5",
+                        "lpage": "41",
+                        "pub-id_pmid": "33361549",
+                        "section_type": "REF",
+                        "source": "Gut Liver",
+                        "type": "ref",
+                        "volume": "15",
+                        "year": "2021"
+                    },
+                    "text": "Diagnostic accuracy of fecal calprotectin for the detection of small bowel Crohn\u2019s disease through capsule endoscopy: an updated meta\u2010analysis and systematic review",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 49012,
+                    "infons": {
+                        "fpage": "1137",
+                        "issue": "10",
+                        "lpage": "44",
+                        "pub-id_pmid": "27415156",
+                        "section_type": "REF",
+                        "source": "Eur J Gastroenterol Hepatol",
+                        "type": "ref",
+                        "volume": "28",
+                        "year": "2016"
+                    },
+                    "text": "Fecal calprotectin for the prediction of small\u2010bowel Crohn\u2019s disease by capsule endoscopy: a systematic review and meta\u2010analysis",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 49147,
+                    "infons": {
+                        "section_type": "REF",
+                        "type": "ref"
+                    },
+                    "text": "Entyvio (vedolizumab) \u2010 Summary of product characteristics (SPC)",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 49214,
+                    "infons": {
+                        "fpage": "839",
+                        "issue": "5",
+                        "lpage": "51",
+                        "pub-id_pmid": "26893500",
+                        "section_type": "REF",
+                        "source": "Gut",
+                        "type": "ref",
+                        "volume": "66",
+                        "year": "2017"
+                    },
+                    "text": "The safety of vedolizumab for ulcerative colitis and Crohn\u2019s disease",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 49285,
+                    "infons": {
+                        "fpage": "1",
+                        "issue": "11",
+                        "lpage": "14",
+                        "section_type": "REF",
+                        "source": "Int J Mol Sci",
+                        "type": "ref",
+                        "volume": "19",
+                        "year": "2018"
+                    },
+                    "text": "Challenges and opportunities for predictive toxicology of monoclonal antibodies",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 49365,
+                    "infons": {
+                        "fpage": "397",
+                        "issue": "2",
+                        "lpage": "412",
+                        "pub-id_pmid": "28366484",
+                        "section_type": "REF",
+                        "source": "Immunol Allergy Clin North Am",
+                        "type": "ref",
+                        "volume": "37",
+                        "year": "2017"
+                    },
+                    "text": "Adverse reactions to biologic therapy",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 49403,
+                    "infons": {
+                        "fpage": "35",
+                        "issue": "1",
+                        "lpage": "64",
+                        "pub-id_pmid": "31950442",
+                        "section_type": "REF",
+                        "source": "Rheumatol Ther",
+                        "type": "ref",
+                        "volume": "7",
+                        "year": "2020"
+                    },
+                    "text": "Nonmedical switching from originators to biosimilars: does the nocebo effect explain treatment failures and adverse events in rheumatology and gastroenterology?",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 49564,
+                    "infons": {
+                        "elocation-id": "e12817",
+                        "issue": "2",
+                        "pub-id_pmid": "30637967",
+                        "section_type": "REF",
+                        "source": "Dermatol Ther",
+                        "type": "ref",
+                        "volume": "32",
+                        "year": "2019"
+                    },
+                    "text": "Injection site reactions with the use of biological agents",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 49623,
+                    "infons": {
+                        "fpage": "779",
+                        "issue": "5",
+                        "lpage": "93",
+                        "pub-id_pmid": "33942212",
+                        "section_type": "REF",
+                        "source": "Pharm Res",
+                        "type": "ref",
+                        "volume": "38",
+                        "year": "2021"
+                    },
+                    "text": "Subcutaneous injection site pain of formulation matrices",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 49680,
+                    "infons": {
+                        "fpage": "741",
+                        "issue": "4",
+                        "lpage": "57",
+                        "pub-id_pmid": "33206343",
+                        "section_type": "REF",
+                        "source": "Rheumatol Ther",
+                        "type": "ref",
+                        "volume": "7",
+                        "year": "2020"
+                    },
+                    "text": "Understanding and Minimising injection\u2010site pain following subcutaneous Administration of Biologics: a narrative review",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 49802,
+                    "infons": {
+                        "fpage": "2986",
+                        "issue": "11",
+                        "lpage": "96",
+                        "pub-id_pmid": "31587143",
+                        "section_type": "REF",
+                        "source": "Adv Ther",
+                        "type": "ref",
+                        "volume": "36",
+                        "year": "2019"
+                    },
+                    "text": "Subcutaneous injection of drugs: literature review of factors influencing pain sensation at the injection site",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 49913,
+                    "infons": {
+                        "fpage": "1",
+                        "pub-id_pmid": "20064220",
+                        "section_type": "REF",
+                        "source": "BMC Gastroenterol",
+                        "type": "ref",
+                        "volume": "10",
+                        "year": "2010"
+                    },
+                    "text": "How do patients with inflammatory bowel disease want their biological therapy administered?",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 50005,
+                    "infons": {
+                        "fpage": "549",
+                        "issue": "5",
+                        "lpage": "55",
+                        "pub-id_pmid": "26738757",
+                        "section_type": "REF",
+                        "source": "J Crohns Colitis",
+                        "type": "ref",
+                        "volume": "10",
+                        "year": "2016"
+                    },
+                    "text": "Non\u2010adherence to anti\u2010TNF therapy is associated with illness perceptions and clinical outcomes in outpatients with inflammatory bowel disease: results from a prospective multicentre study",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 50197,
+                    "infons": {
+                        "fpage": "2053",
+                        "issue": "9",
+                        "lpage": "61",
+                        "pub-id_pmid": "29668917",
+                        "section_type": "REF",
+                        "source": "Inflamm Bowel Dis",
+                        "type": "ref",
+                        "volume": "24",
+                        "year": "2018"
+                    },
+                    "text": "Nonadherence to biologic therapies in inflammatory bowel disease",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "offset": 50262,
+                    "infons": {
+                        "fpage": "314",
+                        "issue": "2",
+                        "lpage": "20",
+                        "pub-id_pmid": "31671188",
+                        "section_type": "REF",
+                        "source": "Inflamm Bowel Dis",
+                        "type": "ref",
+                        "volume": "26",
+                        "year": "2020"
+                    },
+                    "text": "Risk factors for medication nonadherence to self\u2010injectable biologic therapy in adult patients with inflammatory bowel disease",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                }
+            ],
+            "annotations": [],
+            "relations": []
+        }
+    ]
+}
