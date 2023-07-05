@@ -129,6 +129,15 @@ input:-webkit-autofill:active {
     margin-top: 15px;
 }
 
+.center-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+}
+
+
 .card-header .btn-link {
     padding-left: 0;
     display: flex;

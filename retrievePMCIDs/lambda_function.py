@@ -1,12 +1,18 @@
 import json
+import deepl
 import boto3
 import requests
 from bs4 import BeautifulSoup
 
+DEEPL_API = "0fc72c72-d5dc-b28e-89c3-ca81522f9d64:fx"
 client = boto3.client('lambda')
 
 def lambda_handler(event, context):
-    search_term = event['search']
+    raw_term = event['search']
+    translator = deepl.Translator(DEEPL_API)
+
+    result = translator.translate_text(raw_term, target_lang="EN")
+    search_term = result.text
 
     url = f"https://www.ncbi.nlm.nih.gov/pmc/?term={search_term}"
 
@@ -30,14 +36,14 @@ def lambda_handler(event, context):
             pmc_ids.append(pmc_id)
 
     response = client.invoke(
-        FunctionName="arn:aws:lambda:ap-northeast-1:392491164501:function:retrieveMetaFullText",
-        InvocationType="RequestResponse",
-        Payload=json.dumps(pmc_ids),
+        FunctionName = "arn:aws:lambda:ap-northeast-1:392491164501:function:retrieveMetaFullText",
+        InvocationType = "RequestResponse",
+        Payload = json.dumps(pmc_ids),
     )
-
-    response_payload = response["Payload"].read().decode('utf-8')
+    
+    response_payload = json.loads(response["Payload"].read().decode("utf-8"))
 
     return {
-        "statusCode": 200,
+        "StatusCode": 200,
         "body": response_payload
     }

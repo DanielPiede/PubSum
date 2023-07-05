@@ -2,6 +2,24 @@ function buildPapers(result) {
     const accordion = document.getElementById('accordion');
     var index = 0;
 
+    
+    if (result.body.papers.length === 0) {
+        const noResultsCard = document.createElement('div');
+        noResultsCard.className = 'card';
+    
+        const cardBody = document.createElement('div');
+        cardBody.className = 'card-body center-text';
+    
+        const message = document.createElement('p');
+        message.innerText = 'No results have been found, please try a different term or language.';
+    
+        cardBody.appendChild(message);
+        noResultsCard.appendChild(cardBody);
+        accordion.appendChild(noResultsCard);
+        return; // Exit the function if there are no results
+    }
+
+
     result.body.papers.forEach((paper) => {
         index++;
         const card = document.createElement('div');

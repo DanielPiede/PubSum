@@ -136,9 +136,8 @@ def lambda_handler(event, context):
         concurrent.futures.wait(futures)
 
     # Sort the papers based on date (with None handled)
-        json_response = {
-        'papers': sorted([paper for paper in paper_list if paper.get('fulltext') != 'N/A'], key=lambda x: x['date'], reverse=True)
-        
+    json_response = {
+        'papers': sorted([paper for paper in paper_list if paper.get('fulltext') != 'N/A' and paper.get('date') != '0000/00/00'], key=lambda x: x['date'], reverse=True)
     }
 
     return json_response
