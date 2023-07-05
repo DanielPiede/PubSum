@@ -126,14 +126,14 @@ function buildPapers(result) {
         enTabPane.id = `pills-en-${index}-tab`;
         enTabPane.setAttribute('role', 'tabpanel');
         enTabPane.setAttribute('aria-labelledby', `pills-en-${index}`);
-        enTabPane.innerText = paper.fulltext; //paper.enSum; CHANGE HERE LATER NOW FULLTEXT FOR TESTING ONLY
+        enTabPane.innerText = paper.enSum;
 
         const jpTabPane = document.createElement('div');
         jpTabPane.className = 'tab-pane fade';
         jpTabPane.id = `pills-jp-${index}-tab`;
         jpTabPane.setAttribute('role', 'tabpanel');
         jpTabPane.setAttribute('aria-labelledby', `pills-jp-${index}`);
-        jpTabPane.innerText = "Japanese Summary"; //paper.jpSum; CHANGE HERE
+        jpTabPane.innerText = paper.jpSum;
 
         tabContent.appendChild(enTabPane);
         tabContent.appendChild(jpTabPane);
