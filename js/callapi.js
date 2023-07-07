@@ -35,7 +35,7 @@ function callAPI(event) {
 
     // Append Loading Icon and clear search results:
 
-    fetch("https://s1bymzwvea.execute-api.ap-northeast-1.amazonaws.com/Dev", requestOptions)
+    fetch("https://s1bymzwvea.execute-api.ap-northeast-1.amazonaws.com/Dev/", requestOptions)
     .then((response) => response.json()) // Parse the response as JSON
     .then((result) => {
         buildPapers(result);
