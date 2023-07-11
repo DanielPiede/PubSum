@@ -11,7 +11,7 @@ def lambda_handler(event, context):
     raw_term = event['search']
     translator = deepl.Translator(DEEPL_API)
 
-    result = translator.translate_text(raw_term, target_lang="EN")
+    result = translator.translate_text(raw_term, target_lang="EN-US")
     search_term = result.text
 
     url = f"https://www.ncbi.nlm.nih.gov/pmc/?term={search_term}"
@@ -45,5 +45,10 @@ def lambda_handler(event, context):
 
     return {
         "StatusCode": 200,
+        'headers': {
+            'Access-Control-Allow-Headers': 'Content-Type',
+            'Access-Control-Allow-Origin': '*',
+            'Access-Control-Allow-Methods': 'OPTIONS,POST,GET'
+        },
         "body": response_payload
     }
