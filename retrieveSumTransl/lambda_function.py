@@ -17,7 +17,7 @@ def lambda_handler(event, context):
         engSum = co.summarize( 
             model='summarize-xlarge', 
             length='long',
-            extractiveness='low',
+            extractiveness='medium',
             temperature=0.5,
             text=event['fulltext']
         )
